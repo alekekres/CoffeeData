@@ -1,0 +1,654 @@
+,Place,Country.of.Origin,Region,In.Country.Partner,Harvest_Year,GradingDate,Owner.1,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Clean.Cup,Sweetness,Cupper.Points,Total.Cup.Points,Moisture,altitude
+0,1,Ethiopia,guji-hambela,METAD Agricultural Development plc,2014,2015-04-04,metad plc,8.67,8.83,8.67,8.75,8.5,8.42,10,10,10,8.75,90.58,0.12,2075
+1,2,Ethiopia,guji-hambela,METAD Agricultural Development plc,2014,2015-04-04,metad plc,8.75,8.67,8.5,8.58,8.42,8.42,10,10,10,8.58,89.92,0.12,2075
+2,3,Ethiopia,oromia,METAD Agricultural Development plc,2014,2015-03-26,Yidnekachew Dabessa,8.17,8.58,8.42,8.42,8.5,8.25,10,10,10,8.67,89,0.11,2000
+3,4,Ethiopia,guji-hambela,METAD Agricultural Development plc,2014,2015-04-04,metad plc,8.25,8.5,8.25,8.5,8.42,8.33,10,10,10,8.58,88.83,0.12,2075
+4,5,Ethiopia,"snnp/kaffa zone,gimbowereda",METAD Agricultural Development plc,2014,2015-03-30,Diamond Enterprise Plc,8.08,8.58,8.5,8.5,7.67,8.42,10,10,10,8.5,88.25,0.1,1822
+5,6,Ethiopia,oromia,METAD Agricultural Development plc,2014,2015-03-27,Mohammed Lalo,8.17,8.67,8.25,8.5,7.75,8.17,10,10,10,8.58,88.08,0.1,1905
+6,7,United States,antioquia,AlmacafÃ©,2014,2015-03-13,CQI Q Coffee Sample Representative,8.25,8.42,8.17,8.33,8.08,8.17,10,10,10,8.5,87.92,0,1872
+7,8,United States,antioquia,AlmacafÃ©,2014,2015-03-13,CQI Q Coffee Sample Representative,8.08,8.67,8.33,8.42,8,8.08,10,10,10,8.33,87.92,0,1943
+8,9,United States,antioquia,AlmacafÃ©,2014,2015-03-13,CQI Q Coffee Sample Representative,8,8.5,8.58,8.17,8.17,8,10,10,10,8.17,87.58,0,2080
+9,10,China,yunnan,Yunnan Coffee Exchange,2015,2016-04-07,Yunnan Coffee Exchange,8.42,8.25,8.08,8.17,7.92,8,10,10,10,8.42,87.25,0.1,1450
+10,11,Ethiopia,gedio,Blossom Valley International,2014,2015-03-25,EssenceCoffee,8.17,8.17,8,8.17,8.08,8.33,10,10,10,8.33,87.25,0,1850
+11,12,United States,antioquia,AlmacafÃ©,2014,2015-03-13,CQI Q Coffee Sample Representative,8,8.25,8.08,8.5,8.25,8,10,10,10,8.17,87.25,0,2019
+12,13,Costa Rica,san ramon,Specialty Coffee Association,2014,2014-04-02,The Coffee Source Inc.,8.08,8.25,8,8.17,8,8.33,10,10,10,8.33,87.17,0.11,1300
+13,14,Mexico,xalapa,AMECAFE,2012,2012-07-26,ROBERTO LICONA FRANCO,8.17,8.25,8.17,8,7.83,8.17,10,10,10,8.58,87.17,0.13,1320
+14,15,United States,antioquia,AlmacafÃ©,2014,2015-03-13,CQI Q Coffee Sample Representative,8.25,8.33,8.17,8.17,7.83,8.17,10,10,10,8.17,87.08,0,2112
+15,16,Brazil,south of minas,NUCOFFEE,2011,2011-12-03,NUCOFFEE,8.5,8.5,8,8,8,8,10,10,10,7.92,86.92,0.12,1250
+16,17,Uganda,kapchorwa eastern,Uganda Coffee Development Authority,2013,2014-06-26,Kabum Trading company,8.42,8.17,8.17,8.17,7.83,7.92,10,10,10,8.17,86.83,0.12,1950
+17,18,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2016,2017-05-18,Bismarck Castro,8.17,8.08,8.08,8,8.08,8,10,10,10,8.25,86.67,0.1,1400
+18,19,Taiwan,"leye, alishan township, chiayi county",Specialty Coffee Association,2015,2016-05-18,"Lin, Che-Hao Krude ???",8,8,8,8.25,8,8.17,10,10,10,8.17,86.58,0,1200
+19,20,Brazil,vale da grama,NUCOFFEE,2011,2011-12-03,NUCOFFEE,8.5,8.17,8,7.75,8,8,10,10,10,8,86.42,0.12,1300
+20,21,Ethiopia,oromia,METAD Agricultural Development plc,2014,2015-03-27,Hider Abamecha,8,8.08,7.92,8,8.08,8.08,10,10,10,8.08,86.25,0.1,1775
+21,22,Kenya,muranga,Kenya Coffee Traders Association,2013,2014-05-30,Daniel Magu,8.08,8,8,8.25,7.92,7.92,10,10,10,8.08,86.25,0.12,1800
+22,23,United States,antioquia,AlmacafÃ©,2014,2015-03-13,CQI Q Coffee Sample Representative,7.67,8.17,8,8,8.17,8.08,10,10,10,8.08,86.17,0,1941
+23,24,Thailand,chiang rai,Specialty Coffee Association,2012,2012-04-12,ITDP International,7.83,8.33,7.83,8.25,7.58,7.92,10,10,10,8.42,86.17,0.1,1300
+27,28,Kenya,nyeri,Kenya Coffee Traders Association,2014,2015-01-29,Jungle Estate,8.08,8.08,8,8,7.83,8.08,10,10,10,8,86.08,0.11,1754
+28,29,Brazil,south of minas,NUCOFFEE,2011,2011-12-03,NUCOFFEE,8.33,8,8,8,7.75,8,10,10,10,8,86.08,0.11,1250
+29,30,Colombia,tolima,Specialty Coffee Association,2013,2014-03-20,LUSSO LAB,7.75,7.92,7.83,8.08,8.08,8.17,10,10,10,8.17,86,0.12,1200
+30,31,Kenya,kiambu,Specialty Coffee Association,2013,2014-02-06,LUSSO LAB,7.92,8.17,7.83,8.5,7.5,7.92,10,10,10,8.17,86,0.11,1860
+31,32,Uganda,"sipi, mt elgon",Africa Fine Coffee Association,2012,2012-02-13,AFCA,8.25,8,7.83,8.08,8,7.92,10,10,10,7.92,86,0.1,1650
+32,33,Uganda,eastern,Uganda Coffee Development Authority,2013,2014-06-30,Kawacom Uganda LTD,8.17,8.17,7.92,8.08,7.83,7.75,10,10,10,8,85.92,0.12,1650
+33,34,Colombia,huila,AlmacafÃ©,2013,2013-07-26,Exportadora de Cafe Condor S.A,8,8,8,8.17,7.83,8,10,10,10,7.92,85.92,0,1800
+34,35,Panama,boquete,Specialty Coffee Association of Costa Rica,2017,2017-10-09,Gonzalo Hernandez,8,8,7.92,8.08,7.83,8,10,10,10,8,85.83,0.08,1600
+35,36,Ethiopia,oromia,METAD Agricultural Development plc,2014,2015-04-04,Ibrahim Hussien Speciality Coffee Producer &Export,7.83,8.08,7.92,8.08,8,7.92,10,10,10,8,85.83,0.1,1900
+36,37,Papua New Guinea,eastern highlands province,Specialty Coffee Association,2012,2012-10-25,"Colbran Coffeelands, Ltd.",8.33,8.42,7.83,8.33,8,8.25,9.33,9.33,10,7.92,85.75,0.12,1700
+37,38,El Salvador,apaneca,Specialty Coffee Association,2013,2013-03-18,Atlantic Specialty Coffee,7.92,8.17,8,7.92,7.75,7.83,10,10,10,8,85.58,0.1,1500
+38,39,El Salvador,"ataco, apaneca - ilamatepec mountain range",Specialty Coffee Association,2012,2013-01-12,LUSSO LAB,7.83,8,8,7.75,7.92,8.17,10,10,10,7.92,85.58,0.11,1350
+39,40,Panama,boquete,Blossom Valley International,2014,2015-05-23,EssenceCoffee,8,7.75,7.83,7.83,7.67,8.58,10,10,10,7.83,85.5,0.09,1680
+40,41,Kenya,kirinyaga,Blossom Valley International,2014,2015-05-23,EssenceCoffee,7.92,7.92,7.83,8.08,7.83,7.92,10,10,10,8,85.5,0.1,1900
+41,42,Ethiopia,oromia,METAD Agricultural Development plc,2015,2015-03-31,Assefa Belay Coffee Producer,7.83,8,7.83,7.92,7.83,8.08,10,10,10,8,85.5,0.12,1900
+42,43,Uganda,bulambuli eastern region,Uganda Coffee Development Authority,2013,2014-06-26,Kyagalanyi Ltd,8.33,7.92,7.67,7.92,7.67,7.92,10,10,10,8.08,85.5,0.12,1600
+43,44,Ethiopia,oromia,METAD Agricultural Development plc,2015,2015-03-31,Assefa Belay Coffee Producer,7.75,7.83,7.83,8.17,7.92,7.83,10,10,10,8.08,85.42,0.1,1900
+44,45,Uganda,kapchorwa,Uganda Coffee Development Authority,2013,2014-06-26,Great Lakes Coffee Uganda,8.08,8,7.83,7.67,8,7.83,10,10,10,8,85.42,0.12,1950
+45,46,Brazil,south of minas,NUCOFFEE,2011,2011-12-03,NUCOFFEE,8,8,8,7.67,7.75,8,10,10,10,8,85.42,0.11,1250
+46,47,China,yunnan,Yunnan Coffee Exchange,2015,2016-04-06,Yunnan Coffee Exchange,8,8,8,7.83,7.83,7.75,10,10,10,7.92,85.33,0.1,1700
+47,48,Guatemala,huehuetenango,Blossom Valley International,2014,2015-05-23,EssenceCoffee,7.83,7.75,7.83,7.67,7.83,8.58,10,10,10,7.83,85.33,0.11,1770
+48,49,Costa Rica,west valley,Specialty Coffee Association,2014,2014-05-01,The Coffee Source Inc.,7.92,8.08,8,7.92,8,8.08,10,10,9.33,8,85.33,0,1300
+49,50,Costa Rica,san ramon,Specialty Coffee Association,2014,2014-05-01,The Coffee Source Inc.,8,7.58,7.58,7.67,8.08,8.5,10,10,10,7.92,85.33,0.1,1300
+50,51,Kenya,central kenya,Kenya Coffee Traders Association,2012,2013-04-19,RASHID MOLEDINA & CO. (MSA) LTD.,7.83,8.08,7.75,8.08,7.92,7.75,10,10,10,7.92,85.33,0,1600
+51,52,Kenya,central kenya,Kenya Coffee Traders Association,2012,2013-03-12,Ibero Kenya Limited,8,7.92,7.92,8.08,7.83,7.75,10,10,10,7.83,85.33,0,1200
+52,53,Colombia,santander,AlmacafÃ©,2015,2015-04-08,Exportadora de Cafe Condor S.A,8.17,7.92,7.83,8,7.58,7.83,10,10,10,7.92,85.25,0.11,1550
+53,54,Colombia,santander,AlmacafÃ©,2014,2014-01-17,CompaÃ±ia Colombiana Agroindustrial S.A,7.58,8.08,7.92,7.83,8,7.92,10,10,10,7.92,85.25,0.12,1550
+54,55,Indonesia,lintong,Specialty Coffee Association,2012,2012-11-26,"Nomura Trading Co., Ltd.",7.75,7.83,7.67,8,8.08,7.83,10,10,10,8,85.17,0.11,1325
+55,56,Guatemala,huehuetenango,Specialty Coffee Association,2012,2012-01-18,The Coffee Source Inc.,8.25,8,7.67,7.92,7.75,7.67,10,10,10,7.92,85.17,0,1400
+57,58,Ethiopia,aricha,Specialty Coffee Association,2014,2014-10-07,Steven Kil,8.42,8,7.42,8,7.92,7.92,9.33,10,10,8.08,85.08,0.1,1700
+58,59,Colombia,cundinamarca,AlmacafÃ©,2012,2012-03-16,CARCAFE LTDA CI,7.83,8,7.75,7.75,7.83,7.83,10,10,10,8.08,85.08,0.11,2136
+59,60,Uganda,eastern uganda,Uganda Coffee Development Authority,2016,2017-07-24,Kyagalanyi Coffee Ltd,8.17,7.92,7.75,7.75,7.67,7.75,10,10,10,8,85,0.11,1800
+60,61,Costa Rica,tarrazu,Specialty Coffee Association,2016,2017-01-30,Troy Quimby,7.83,8,7.58,7.92,7.92,7.83,10,10,10,7.92,85,0.12,1900
+61,62,Mexico,veracruz,Centro AgroecolÃ³gico del CafÃ© A.C.,2015,2016-09-21,"El Equimite, Cafetal BiodinÃ¡mico",7.83,8,7.83,7.75,7.67,7.83,10,10,10,8.08,85,0.09,1300
+62,63,Kenya,central kenya,Kenya Coffee Traders Association,2012,2013-04-19,RASHID MOLEDINA & CO. (MSA) LTD.,7.75,7.83,7.75,8.08,8,7.75,10,10,10,7.83,85,0,1580
+63,64,Brazil,grama valley,NUCOFFEE,2012,2012-02-29,NUCOFFEE,8,8,7.83,7.83,7.67,7.67,10,10,10,8,85,0.12,1100
+64,65,Colombia,huila,AlmacafÃ©,2015,2015-10-26,Racafe & Cia S.C.A,7.92,7.83,7.75,7.83,7.75,8,10,10,10,7.83,84.92,0.12,1775
+66,67,"Tanzania, United Republic Of",mbeya,Africa Fine Coffee Association,2014,2014-12-12,Taylor Winch (T) Ltd,8,7.83,7.83,7.92,7.75,7.75,10,10,10,7.83,84.92,0.12,1620
+67,68,Colombia,huila,AlmacafÃ©,2012,2012-12-11,Racafe & Cia S.C.A,7.75,7.92,7.83,7.75,7.75,8,10,10,10,7.92,84.92,0.11,1775
+68,69,Mexico,coatepec,AMECAFE,2012,2012-07-11,ARTEMIO ZAPATA TEJEDA,7.75,8,7.75,7.83,7.5,7.92,10,10,10,8.17,84.92,0.11,1200
+69,70,Brazil,south of minas,NUCOFFEE,2011,2011-12-23,NUCOFFEE,8,7.92,7.75,7.75,8,7.75,10,10,10,7.75,84.92,0.11,1200
+72,73,Uganda,eastern,Uganda Coffee Development Authority,2013,2014-06-30,Kawacom Uganda LTD,7.75,7.92,7.67,7.67,8.25,7.75,10,10,10,7.83,84.83,0.12,1650
+73,74,Kenya,nyeri,Kenya Coffee Traders Association,2014,2015-06-02,Lydiah Mwangi,7.92,7.83,7.58,7.92,7.75,7.83,10,10,10,7.92,84.75,0.13,1800
+74,75,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2014,2014-04-25,CADEXSA,7.83,7.75,8,7.67,7.67,7.67,10,10,10,8.17,84.75,0.11,1450
+75,76,El Salvador,apaneca,Salvadoran Coffee Council,2016,2017-06-26,Consejo SalvadoreÃ±o del CafÃ©,7.83,7.83,7.5,8,7.83,7.67,10,10,10,8,84.67,0,1350
+76,77,Indonesia,"temanggung, indonesia",Specialty Coffee Association of Indonesia,2016,2016-11-24,SanJava Coffee,7.92,7.83,7.75,7.75,7.75,7.75,10,10,10,7.92,84.67,0.12,1200
+77,78,Costa Rica,tarrazu,Specialty Coffee Association of Costa Rica,2015,2016-10-04,Rodrigo Soto,8.08,7.75,7.67,7.83,7.5,7.92,10,10,10,7.92,84.67,0.1,1150
+78,79,Guatemala,acatenango,Asociacion Nacional Del CafÃ©,2015,2016-06-01,Juan Luis Alvarado Romero,7.75,7.83,7.58,8,7.92,7.75,10,10,10,7.83,84.67,0.1,1600
+79,80,Costa Rica,tarrazu,Specialty Coffee Association of Costa Rica,2014,2015-07-06,Fabian Calderon Mora,8.17,8,7.83,7.17,7.83,7.75,10,10,10,7.92,84.67,0.12,1750
+80,81,Ethiopia,yirgacheffe,Blossom Valley International,2014,2015-05-23,EssenceCoffee,8.08,7.83,7.75,7.83,7.58,7.67,10,10,10,7.92,84.67,0.1,1900
+81,82,Costa Rica,costa rica,Blossom Valley International,2014,2015-05-23,EssenceCoffee,7.67,7.58,7.75,7.75,7.67,8.58,10,10,10,7.67,84.67,0.08,1750
+82,83,Costa Rica,west valley,Specialty Coffee Association of Costa Rica,2014,2014-03-05,Eric Thormaehlen,8,7.58,7.83,7.75,7.75,7.75,10,10,10,8,84.67,0.11,1200
+83,84,Colombia,santander,AlmacafÃ©,2013,2013-12-20,CompaÃ±ia Colombiana Agroindustrial S.A,7.75,7.83,7.75,7.83,7.75,7.83,10,10,10,7.92,84.67,0,1550
+84,85,Kenya,nyeri,Specialty Coffee Institute of Asia,2012,2012-09-16,Dream Together,7.75,7.92,7.83,8,7.58,7.75,10,10,10,7.83,84.67,0.11,2000
+85,86,Mexico,el remudadero,AMECAFE,2012,2012-07-02,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7.83,7.58,7.67,7.92,7.92,7.83,10,10,10,7.92,84.67,0.13,1200
+86,87,Uganda,mbale,Africa Fine Coffee Association,2012,2012-02-13,AFCA,7.92,7.83,7.75,7.92,7.67,7.75,10,10,10,7.83,84.67,0.11,1775
+87,88,Colombia,santander,AlmacafÃ©,2016,2017-01-10,Racafe & Cia S.C.A,7.83,7.67,7.58,7.92,7.67,7.83,10,10,10,8.08,84.58,0,1500
+88,89,Kenya,nyeri,Kenya Coffee Traders Association,2013,2014-07-21,Daniel Magu,7.83,7.83,7.83,7.75,7.58,7.83,10,10,10,7.92,84.58,0.1,1800
+89,90,Colombia,santander,AlmacafÃ©,2013,2013-12-20,CompaÃ±ia Colombiana Agroindustrial S.A,7.67,7.67,7.58,7.75,7.58,8.5,10,10,10,7.83,84.58,0,1550
+90,91,Colombia,huila,AlmacafÃ©,2013,2013-12-06,Racafe & Cia S.C.A,7.75,7.75,7.83,7.75,7.58,8,10,10,10,7.92,84.58,0,1750
+91,92,Colombia,huila,AlmacafÃ©,2012,2013-07-17,Exportadora de Cafe Condor S.A,7.67,7.83,7.83,8,7.58,7.92,10,10,10,7.75,84.58,0,1750
+92,93,Costa Rica,tres rios,Specialty Coffee Association,2012,2013-03-12,LUSSO LAB,7.75,7.83,7.75,8,7.83,7.67,10,10,10,7.75,84.58,0.12,1575
+93,94,Colombia,huila,AlmacafÃ©,2012,2012-10-09,Exportadora de Cafe Condor S.A,7.42,7.67,7.75,7.75,8.08,7.83,10,10,10,8.08,84.58,0.11,1800
+94,95,Brazil,vale da grama,NUCOFFEE,2011,2011-12-23,NUCOFFEE,8,8,7.75,7.75,7.58,7.75,10,10,10,7.75,84.58,0.12,1300
+95,96,Brazil,mountains of minas gerais,NUCOFFEE,2011,2011-12-03,NUCOFFEE,8.5,8,7.5,7.75,7.5,7.83,10,10,10,7.5,84.58,0.11,1100
+96,97,Uganda,eastern uganda,Uganda Coffee Development Authority,2016,2017-03-14,ECOM Japan Limited,7.92,7.75,7.67,7.75,7.83,7.75,10,10,10,7.83,84.5,0.11,1750
+97,98,China,yunnan,Yunnan Coffee Exchange,2015,2016-04-06,Yunnan Coffee Exchange,7.75,7.92,7.67,7.83,7.75,7.67,10,10,10,7.92,84.5,0.1,1680
+98,99,Costa Rica,tarrazu,Specialty Coffee Association of Costa Rica,2014,2015-07-06,Fabian Calderon Mora,7.92,7.83,7.83,7.83,7.58,7.58,10,10,10,7.92,84.5,0.11,1700
+99,100,China,yunnan,Specialty Coffee Association,2013,2014-06-16,Eric Wu,7.67,8,7.75,7.83,7.75,7.58,10,10,10,7.92,84.5,0,1100
+100,101,Kenya,nyeri,Specialty Coffee Institute of Asia,2012,2012-09-16,Dream Together,7.92,7.83,7.67,8,7.67,7.75,10,10,10,7.67,84.5,0.11,2000
+101,102,Mexico,hustusco,AMECAFE,2012,2012-07-11,MARIA IMELDA USCANGA MARTINEZ,8,7.92,7.42,8.08,7.5,7.67,10,10,10,7.92,84.5,0.12,1350
+102,103,Mexico,jaltenango,AMECAFE,2012,2012-06-06,ALFREDO BOJALIL,7.92,7.83,7.75,7.75,7.75,7.83,10,10,10,7.67,84.5,0.11,1500
+103,104,Costa Rica,tarrazu,Specialty Coffee Association of Costa Rica,2016,2017-03-23,Max Gurdian,7.58,7.83,7.83,8,7.67,7.58,10,10,10,7.92,84.42,0.1,1300
+104,105,Indonesia,sumatra brastagi,Specialty Coffee Association,2017,2017-03-14,Aulia Arif Syahri,7.67,7.67,7.83,7.58,7.83,7.83,10,10,10,8,84.42,0,1400
+105,106,Colombia,huila,AlmacafÃ©,2014,2014-07-09,Racafe & Cia S.C.A,7.92,7.75,7.67,7.92,7.67,7.75,10,10,10,7.75,84.42,0,1775
+106,107,Taiwan,"mountain ali, taiwan",Specialty Coffee Association,2012,2013-07-10,Kao Ming Lee,7.83,7.83,7.75,8,7.5,7.75,10,10,10,7.75,84.42,0.11,1200
+108,109,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2016,2017-05-11,Bismarck Castro,7.92,8,7.75,7.67,7.67,7.75,10,10,10,7.58,84.33,0.1,1500
+109,110,Honduras,central region,Instituto HondureÃ±o del CafÃ©,2016,2016-04-04,Bismarck Castro,7.58,7.92,7.58,7.75,7.92,7.75,10,10,10,7.83,84.33,0.11,1500
+111,112,Colombia,huila,AlmacafÃ©,2013,2013-07-19,Exportadora de Cafe Condor S.A,7.75,7.58,7.33,7.83,7.58,8.08,10,10,10,8.17,84.33,0,1800
+112,113,Mexico,tuxtla gutierrez,AMECAFE,2012,2012-07-27,VICTOR HUGO MELCHOR CORDOVA,8,7.75,7.75,7.83,7.5,7.67,10,10,10,7.83,84.33,0.12,1700
+113,114,Brazil,vale da grama,NUCOFFEE,2011,2011-10-28,NUCOFFEE,8.17,8,7.5,7.75,7.5,7.67,10,10,10,7.75,84.33,0,1275
+114,115,Brazil,south of minas,NUCOFFEE,2011,2011-10-28,NUCOFFEE,8,8,7.5,7.5,7.67,7.75,10,10,10,7.92,84.33,0.02,1050
+116,117,Thailand,chiang rai thailand,Specialty Coffee Institute of Asia,2015,2016-11-02,???? Koju Matsuzawa,7.83,7.75,7.75,7.42,7.83,7.67,10,10,10,8,84.25,0.12,1200
+118,119,Guatemala,antigua,Asociacion Nacional Del CafÃ©,2016,2016-05-23,Juan Luis Alvarado Romero,7.75,7.75,7.58,7.92,7.75,7.75,10,10,10,7.75,84.25,0.11,1500
+119,120,China,yunnan,Yunnan Coffee Exchange,2015,2016-04-06,Yunnan Coffee Exchange,7.83,7.83,7.58,7.75,7.75,7.75,10,10,10,7.75,84.25,0.1,1400
+120,121,Colombia,huila,AlmacafÃ©,2015,2015-11-19,Racafe & Cia S.C.A,7.67,7.67,7.75,7.75,7.67,7.92,10,10,10,7.83,84.25,0.11,1775
+121,122,Colombia,huila,AlmacafÃ©,2015,2015-10-26,Racafe & Cia S.C.A,7.83,7.67,7.75,7.58,7.92,7.75,10,10,10,7.75,84.25,0.12,1775
+123,124,"Tanzania, United Republic Of",shizingo village,Africa Fine Coffee Association,2014,2014-12-12,Tembo Coffee Company Ltd,7.83,7.67,7.75,7.83,7.67,7.67,10,10,10,7.83,84.25,0.12,1620
+124,125,"Tanzania, United Republic Of",mbeya,Africa Fine Coffee Association,2014,2014-12-12,Taylor Winch (T) Ltd,7.83,7.75,7.75,7.75,7.67,7.75,10,10,10,7.75,84.25,0.12,1600
+125,126,Colombia,cauca,AlmacafÃ©,2013,2013-10-01,Exportadora de Cafe Condor S.A,7.58,7.5,7.75,7.83,7.92,7.83,10,10,10,7.83,84.25,0.11,1700
+126,127,Mexico,san pedro cotzilnam,AMECAFE,2012,2012-09-11,JESUS SALAZAR VELASCO,7.83,7.92,7.67,7.83,7.5,7.75,10,10,10,7.75,84.25,0.12,1450
+127,128,Mexico,veracruz,AMECAFE,2012,2012-04-09,MANUEL HERRERA JUAREZ,7.83,7.83,7.75,7.67,7.83,7.58,10,10,10,7.75,84.25,0.12,1170
+128,129,Mexico,"la concordia, chiapas",AMECAFE,2012,2012-04-02,ALFREDO BOJALIL,7.83,7.92,7.67,7.75,7.5,7.75,10,10,10,7.83,84.25,0.1,1400
+129,130,Uganda,kasese,Africa Fine Coffee Association,2012,2012-02-13,AFCA,8.17,7.75,7.58,7.67,7.83,7.58,10,10,10,7.67,84.25,0.13,1700
+130,131,Guatemala,san marcos,Asociacion Nacional Del CafÃ©,2017,2017-06-01,Juan Luis Alvarado Romero,7.75,7.83,7.58,7.83,7.67,7.75,10,10,10,7.75,84.17,0.13,1700
+131,132,Costa Rica,tarrazu,Specialty Coffee Association of Costa Rica,2016,2016-08-19,Wayner Jimenez,7.92,7.75,7.67,7.67,7.5,7.67,10,10,10,8,84.17,0.09,1700
+132,133,Guatemala,solola,Asociacion Nacional Del CafÃ©,2016,2016-06-01,Juan Luis Alvarado Romero,7.75,7.92,7.58,7.92,7.67,7.67,10,10,10,7.67,84.17,0.1,1565
+134,135,Colombia,huila,AlmacafÃ©,2015,2015-08-18,Racafe & Cia S.C.A,8,7.5,7.5,7.67,8,7.83,10,10,10,7.67,84.17,0,1775
+136,137,Brazil,cerrado,Brazil Specialty Coffee Association,2015,2015-04-24,Cafebras,7.67,7.75,7.75,7.67,7.83,7.75,10,10,10,7.75,84.17,0,1150
+137,138,Costa Rica,tarrazu,Specialty Coffee Ass,2014,2015-04-10,"CECA,S.A.",7.67,7.75,7.67,7.75,7.5,8,10,10,10,7.83,84.17,0,1850
+138,139,Ethiopia,snnprg; kafa; telo woreda; shada kebele,METAD Agricultural Development plc,2014,2015-03-26,Asefa Dukamo Keroma,7.5,7.92,7.58,7.83,7.75,7.83,10,10,10,7.75,84.17,0.1,1606.5
+139,140,"Tanzania, United Republic Of",arusha,Africa Fine Coffee Association,2014,2014-12-12,Selian Coffee Estate,7.92,7.75,7.75,7.75,7.75,7.58,10,10,10,7.67,84.17,0.13,1400
+141,142,Brazil,"minas gerais, br",Specialty Coffee Association,2012,2013-05-20,Owen Carver,7.58,7.83,7.75,7.67,7.67,8,10,10,10,7.67,84.17,0.11,1038.5
+142,143,El Salvador,apaneca,Specialty Coffee Association,2013,2013-03-18,Atlantic Specialty Coffee,8.42,8.08,7.5,7.17,7.58,8.17,9.33,10,10,7.92,84.17,0.11,1500
+143,144,Colombia,huila,AlmacafÃ©,2012,2012-10-19,Exportadora de Cafe Condor S.A,7.75,7.75,7.75,7.75,7.83,7.75,10,10,10,7.58,84.17,0,1750
+144,145,Uganda,mt. rwenzori,Africa Fine Coffee Association,2012,2012-02-13,AFCA,7.83,7.75,7.5,7.83,7.83,7.75,10,10,10,7.67,84.17,0.11,1600
+146,147,Colombia,huila,AlmacafÃ©,2014,2014-11-05,Racafe & Cia S.C.A,7.92,7.75,7.67,7.75,7.67,7.67,10,10,10,7.67,84.08,0,1775
+147,148,Guatemala,"aldea xeucalvitz, ixil region, quiche department",Specialty Coffee Association,2014,2014-06-16,LUSSO LAB,7.58,7.75,7.67,8,7.75,7.67,10,10,10,7.67,84.08,0.1,1550
+148,149,Mexico,santo domingo cacalotepec,AMECAFE,2012,2012-09-04,ANDRES MARTINEZ LEON,7.67,7.75,7.67,7.75,7.67,7.75,10,10,10,7.83,84.08,0.11,1480
+149,150,Ethiopia,"ethiopia, sidamo",Specialty Coffee Association,2012,2012-08-17,Steven Kil,7.92,7.92,7.83,8,7.92,7.92,10,10,8.67,7.92,84.08,0.09,1800
+150,151,Ethiopia,sidamo,Uganda Coffee Development Authority,2017,2017-06-05,Kyagalanyi Coffee Ltd,7.83,7.75,7.67,7.75,7.33,7.75,10,10,10,7.92,84,0.11,1800
+151,152,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2017,2017-05-11,Bismarck Castro,7.42,7.83,7.75,7.92,7.75,7.58,10,10,10,7.75,84,0.1,1500
+152,153,Colombia,huila,AlmacafÃ©,2014,2014-05-27,Olam Agro Colombia,7.67,7.75,7.67,7.67,7.67,7.75,10,10,10,7.83,84,0.12,1480
+153,154,Colombia,santander,AlmacafÃ©,2014,2014-05-27,CompaÃ±ia Colombiana Agroindustrial S.A,7.58,7.42,7.75,7.92,7.75,7.92,10,10,10,7.67,84,0.12,1450
+154,155,Colombia,huila,AlmacafÃ©,2014,2014-04-08,Racafe & Cia S.C.A,7.67,7.67,7.5,7.5,7.67,7.67,10,10,10,8.33,84,0.12,1775
+155,156,Ethiopia,sidamo,Specialty Coffee Association,2013,2014-01-17,LUSSO LAB,7.75,7.75,7.5,7.58,7.67,7.92,10,10,10,7.83,84,0.09,1550
+156,157,Colombia,cauca,AlmacafÃ©,2013,2013-06-21,Exportadora de Cafe Condor S.A,7.67,7.83,7.67,7.75,7.67,7.75,10,10,10,7.67,84,0.11,1700
+157,158,Kenya,blend,Kenya Coffee Traders Association,2012,2013-03-08,Ibero Kenya Limited,7.67,7.83,7.5,7.75,7.92,7.67,10,10,10,7.67,84,0,1200
+158,159,Kenya,central kenya,Kenya Coffee Traders Association,2012,2012-05-31,Taylor Winch (Coffee) Ltd.,7.67,7.75,7.67,7.75,7.83,7.67,10,10,10,7.67,84,0,1650
+159,160,Uganda,kasese,Africa Fine Coffee Association,2012,2012-02-13,AFCA,7.92,7.75,7.58,7.67,7.67,7.83,10,10,10,7.58,84,0.1,1700
+160,161,Mexico,veracruz,Centro AgroecolÃ³gico del CafÃ© A.C.,2017,2017-07-03,CAFES TOMARI SA DE CV,7.83,7.83,7.58,7.92,7.42,7.5,10,10,10,7.83,83.92,0.11,1300
+161,162,Thailand,chiangrai,Specialty Coffee Association,2015,2016-10-18,Sarawut Premjit,7.67,7.75,7.5,7.67,7.67,7.83,10,10,10,7.83,83.92,0.1,1350
+163,164,Taiwan,"leye, alishan township, chiayi county ????????",Specialty Coffee Association,2015,2016-05-18,"Lin, Che-Hao Krude ???",7.83,7.75,7.83,7.75,7.83,7.75,9.33,10,10,7.83,83.92,0.11,1200
+165,166,Colombia,huila,AlmacafÃ©,2014,2014-12-12,Racafe & Cia S.C.A,7.75,7.58,7.67,7.83,7.83,7.67,10,10,10,7.58,83.92,0,1775
+167,168,Colombia,santander,AlmacafÃ©,2014,2014-01-17,CompaÃ±ia Colombiana Agroindustrial S.A,7.67,7.83,7.67,7.75,7.67,7.83,10,10,10,7.5,83.92,0.12,1550
+169,170,Mexico,la concordia,AMECAFE,2012,2012-06-06,ALFREDO BOJALIL,7.5,7.67,7.58,7.83,7.75,7.75,10,10,10,7.83,83.92,0.11,1500
+170,171,Mexico,la yerbabuena,AMECAFE,2012,2012-04-02,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7.75,7.92,7.83,7.92,7.75,7.67,9.33,10,10,7.75,83.92,0,1400
+172,173,Costa Rica,tarrazu,Specialty Coffee Association of Costa Rica,2015,2016-06-06,"CECA, S.A.",7.67,7.67,7.75,7.67,7.5,7.75,10,10,10,7.83,83.83,0,1850
+173,174,Guatemala,antigua,Asociacion Nacional Del CafÃ©,2016,2016-05-23,Juan Luis Alvarado Romero,7.75,7.75,7.5,7.75,7.83,7.58,10,10,10,7.67,83.83,0.11,1500
+174,175,Taiwan,??,Blossom Valley International,2016,2016-02-23,CQI Taiwan ICP CQI??????,7.75,7.67,7.5,7.75,7.75,7.67,10,10,10,7.75,83.83,0,1200
+176,177,Ethiopia,oromia,METAD Agricultural Development plc,2014,2015-03-31,yasmin Cofffee Plantation Plc,7.75,7.75,7.67,7.67,7.58,7.67,10,10,10,7.75,83.83,0.12,1676.5
+177,178,Costa Rica,central valley,Specialty Coffee Association of Costa Rica,2013,2014-06-09,Eric Thormaehlen,7.83,7.42,7.5,7.83,7.75,7.83,10,10,10,7.67,83.83,0.1,1300
+179,180,Colombia,huila,AlmacafÃ©,2013,2013-09-03,Exportadora de Cafe Condor S.A,7.67,7.58,7.58,7.83,7.58,7.67,10,10,10,7.92,83.83,0.11,1750
+180,181,Mexico,petatlan,AMECAFE,2012,2012-07-26,FILEMON MENDOZA CAMPOS,7.67,8,7.67,7.42,7.67,7.5,10,10,10,7.92,83.83,0.1,1218
+181,182,Mexico,"la concordia, chiapas",AMECAFE,2012,2012-06-06,ALFREDO BOJALIL,7.67,7.58,7.5,7.75,7.75,7.75,10,10,10,7.83,83.83,0.11,1300
+184,185,China,yunnan,Yunnan Coffee Exchange,2015,2016-04-06,Yunnan Coffee Exchange,7.83,7.75,7.67,7.5,7.58,7.67,10,10,10,7.75,83.75,0.1,1650
+185,186,Uganda,west nile,Uganda Coffee Development Authority,2013,2014-06-30,Nile Highland Arabica Coffee Farmers,8,7.92,7.58,7.75,7.33,7.5,10,10,10,7.67,83.75,0.12,1400
+186,187,Colombia,huila,AlmacafÃ©,2014,2014-02-05,Racafe & Cia S.C.A,7.67,7.67,7.67,7.92,7.5,7.67,10,10,10,7.67,83.75,0,1775
+187,188,Colombia,huila,AlmacafÃ©,2014,2014-01-24,Olam Agro Colombia,7.67,7.42,7.42,7.42,8,8.33,10,10,10,7.5,83.75,0,1550
+188,189,Colombia,huila,AlmacafÃ©,2013,2013-11-22,Exportadora de Cafe Condor S.A,7.58,7.67,7.75,7.67,7.67,7.67,10,10,10,7.75,83.75,0,1750
+189,190,Colombia,huila,AlmacafÃ©,2013,2013-08-27,Exportadora de Cafe Condor S.A,7.75,7.67,7.75,7.58,7.42,8,10,10,10,7.58,83.75,0.11,1750
+191,192,Guatemala,quetzaltenango,Specialty Coffee Association,2012,2012-05-24,The Coffee Source Inc.,7.67,7.58,7.58,7.67,7.75,7.75,10,10,10,7.75,83.75,0.11,1300
+192,193,Kenya,meru county,Kenya Coffee Traders Association,2017,2017-09-01,Kennedy Macharia,8.08,7.67,7.67,7.58,7.25,7.67,10,10,10,7.75,83.67,0.11,1700
+193,194,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2016,2017-05-11,Bismarck Castro,7.5,7.5,7.67,7.67,8,8,10,10,10,7.33,83.67,0.1,1400
+194,195,Nicaragua,jinotega,Instituto HondureÃ±o del CafÃ©,2016,2017-05-11,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",7.67,7.75,7.67,7.67,7.83,7.58,10,10,10,7.5,83.67,0.1,1250
+196,197,Taiwan,"leye, alishan township, chiayi county",Specialty Coffee Association,2015,2016-05-18,"Lin, Che-Hao Krude ???",7.5,7.67,7.33,7.92,7.83,7.67,10,10,10,7.75,83.67,0.1,1200
+198,199,Colombia,huila supremo,AlmacafÃ©,2013,2013-10-29,Exportadora de Cafe Condor S.A,7.83,7.75,7.67,7.58,7.58,7.67,10,10,10,7.58,83.67,0,1750
+199,200,Colombia,huila,AlmacafÃ©,2013,2013-08-16,Racafe & Cia S.C.A,7.67,7.67,7.67,7.67,7.33,7.75,10,10,10,7.92,83.67,0,1900
+200,201,Colombia,huila,AlmacafÃ©,2012,2012-11-22,Exportadora de Cafe Condor S.A,7.75,7.75,7.58,7.83,7.17,7.75,10,10,10,7.83,83.67,0.11,1750
+201,202,Guatemala,oriente,Specialty Coffee Association,2012,2012-08-23,The Coffee Source Inc.,8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,9.33,8,83.67,0.11,1450
+202,203,Mexico,xicotepec de juarez,AMECAFE,2012,2012-07-02,JUAN LUIS ORTEGA CARBALLO,7.67,7.5,7.5,7.33,7.83,8.25,10,10,10,7.58,83.67,0.12,1100
+203,204,Indonesia,east java,Specialty Coffee Association of Indonesia,2012,2012-05-23,EKAI International Company Ltd.,8.17,7.67,7.58,7.58,7.42,7.67,10,10,10,7.58,83.67,0.12,1400
+204,205,China,yunnan,Yunnan Coffee Exchange,2015,2016-04-06,Yunnan Coffee Exchange,7.67,7.58,7.58,7.58,7.67,7.75,10,10,10,7.75,83.58,0.1,1100
+205,206,Colombia,huila,AlmacafÃ©,2015,2015-11-19,Racafe & Cia S.C.A,7.67,7.75,7.58,7.67,7.75,7.58,10,10,10,7.58,83.58,0.12,1775
+206,207,Mexico,"chiapas, jaltenango",AsociaciÃ³n Mexicana De CafÃ©s y CafeterÃ­as De Especialidad A.C.,2014,2015-05-12,ANDREAS KUSSMAUL,7.75,7.75,7.58,7.58,7.5,7.67,10,10,10,7.75,83.58,0.12,1200
+207,208,Ethiopia,yirgacheffe,Blossom Valley International,2014,2015-03-25,EssenceCoffee,7.75,7.67,7.58,7.67,7.5,7.67,10,10,10,7.75,83.58,0,1850
+208,209,Uganda,eastern,Uganda Coffee Development Authority,2013,2014-06-27,Bulamburi coffee farmers association,7.67,7.67,7.42,7.75,7.75,7.67,10,10,10,7.67,83.58,0.12,1800
+209,210,Colombia,cundinamarca,AlmacafÃ©,2014,2014-06-24,CompaÃ±ia Colombiana Agroindustrial S.A,7.67,7.58,7.67,7.67,7.67,7.67,10,10,10,7.67,83.58,0,1600
+210,211,Colombia,santander,AlmacafÃ©,2014,2014-03-13,CompaÃ±ia Colombiana Agroindustrial S.A,7.67,7.58,7.67,7.58,7.67,7.75,10,10,10,7.67,83.58,0.12,1550
+211,212,Colombia,santander,AlmacafÃ©,2014,2014-03-21,CompaÃ±ia Colombiana Agroindustrial S.A,7.75,7.58,7.5,7.58,7.75,7.83,10,10,10,7.58,83.58,0,1550
+212,213,Colombia,huila,AlmacafÃ©,2012,2012-08-31,Racafe & Cia S.C.A,7.67,7.67,7.58,7.67,7.75,7.58,10,10,10,7.67,83.58,0.11,1775
+214,215,Colombia,cundinamarca,AlmacafÃ©,2012,2012-04-02,CARCAFE LTDA CI,7.67,7.58,7.58,7.58,7.67,7.75,10,10,10,7.75,83.58,0.11,2136
+215,216,Brazil,south of minas,NUCOFFEE,2012,2012-01-23,NUCOFFEE,7.83,7.75,7.5,7.75,7.5,7.58,10,10,10,7.67,83.58,0.12,1100
+216,217,Colombia,cundinamarca,AlmacafÃ©,2016,2017-02-20,CARCAFE LTDA CI,7.75,7.58,7.58,7.75,7.75,7.5,10,10,10,7.58,83.5,0,1799
+217,218,Costa Rica,tarrazu,Specialty Coffee Association of Costa Rica,2015,2016-06-06,"CECA, S.A.",7.92,7.42,7.5,7.67,7.5,7.67,10,10,10,7.83,83.5,0,1850
+219,220,Colombia,huila,AlmacafÃ©,2015,2015-11-19,Racafe & Cia S.C.A,7.58,7.58,7.58,7.58,7.75,7.67,10,10,10,7.75,83.5,0.12,1775
+220,221,"Tanzania, United Republic Of",nkure- meru,Africa Fine Coffee Association,2015,2015-11-16,Damari Absalome,7.75,7.67,7.58,7.67,7.67,7.58,10,10,10,7.58,83.5,0.13,1400
+221,222,Indonesia,bener meriah,Specialty Coffee Association,2015,2015-09-14,Aulia Arif Syahri,7.25,7.67,7.58,7.92,7.83,7.58,10,10,10,7.67,83.5,0.13,1500
+222,223,Ethiopia,oromia,METAD Agricultural Development plc,2014,2015-03-31,Debesa Agro Industry Plc,7.67,7.75,7.5,7.58,7.75,7.67,10,10,10,7.58,83.5,0.1,1600
+223,224,Colombia,huila,AlmacafÃ©,2014,2015-01-22,Exportadora de Cafe Condor S.A,8,7.58,7.25,7.58,7.92,7.58,10,10,10,7.58,83.5,0.11,1850
+224,225,Guatemala,atitlan,Specialty Coffee Association of Costa Rica,2013,2014-12-18,The Coffee Source Inc.,7.58,7.75,7.5,7.83,7.42,7.67,10,10,10,7.75,83.5,0.1,1400
+225,226,Colombia,cundinamarca,AlmacafÃ©,2014,2014-08-11,CompaÃ±ia Colombiana Agroindustrial S.A,7.75,7.58,7.33,7.5,7.83,7.83,10,10,10,7.67,83.5,0,1650
+226,227,Colombia,huila,AlmacafÃ©,2013,2013-04-26,Exportadora de Cafe Condor S.A,7.58,7.75,7.42,7.67,7.75,7.67,10,10,10,7.67,83.5,0,1750
+227,228,Colombia,huila,AlmacafÃ©,2013,2013-05-24,Exportadora de Cafe Condor S.A,7.58,7.67,7.58,7.75,7.58,7.75,10,10,10,7.58,83.5,0.11,1750
+228,229,Mexico,xalapa,AMECAFE,2012,2012-08-31,MANUEL HERRERA JUAREZ,7.83,7.58,7.25,7.5,7.5,7.42,10,10,10,8.42,83.5,0.13,1170
+230,231,Mexico,totutla,AMECAFE,2012,2012-07-11,GABRIEL BERNARDO RIVAS ROSS,7.75,7.67,7.67,7.75,7.33,7.5,10,10,10,7.83,83.5,0.12,1400
+231,232,Colombia,huila,AlmacafÃ©,2012,2012-02-09,Racafe & Cia S.C.A,7.67,7.58,7.58,7.67,7.67,7.67,10,10,10,7.67,83.5,0.11,1775
+232,233,Guatemala,san marcos,Asociacion Nacional Del CafÃ©,2017,2017-08-23,Juan Luis Alvarado Romero,7.67,7.75,7.5,7.58,7.58,7.67,10,10,10,7.67,83.42,0.1,1700
+234,235,Costa Rica,tarrazu,Specialty Coffee Association of Costa Rica,2016,2017-02-17,"CECA, S.A.",7.58,7.5,7.42,7.92,7.5,7.67,10,10,10,7.83,83.42,0.09,1850
+235,236,Uganda,eastern,Uganda Coffee Development Authority,2015,2016-07-21,Bugisu Cooperative Union,7.58,7.75,7.33,7.75,7.67,7.58,10,10,10,7.75,83.42,0.11,1800
+236,237,Thailand,thailand,Specialty Coffee Institute of Asia,2015,2016-06-27,???? Koju Matsuzawa,7.5,7.58,7.75,7.5,7.75,7.67,10,10,10,7.67,83.42,0.13,1200
+237,238,El Salvador,apaneca,Salvadoran Coffee Council,2016,2016-04-25,Consejo SalvadoreÃ±o del CafÃ©,7.58,7.5,7.75,7.58,7.75,7.67,10,10,10,7.58,83.42,0.11,1330
+239,240,"Tanzania, United Republic Of",karatu northern,Africa Fine Coffee Association,2014,2014-12-12,Ngila Estate Ltd,7.75,7.67,7.58,7.67,7.58,7.58,10,10,10,7.58,83.42,0.13,1600
+240,241,Guatemala,antigua,Asociacion Nacional Del CafÃ©,2014,2014-02-18,Juan Luis Alvarado Romero,7.67,7.75,7.5,7.83,7.58,7.5,10,10,10,7.58,83.42,0.1,1500
+241,242,Colombia,cundinamarca,AlmacafÃ©,2012,2012-06-26,Exportadora de Cafe Condor S.A,7.5,7.75,7.58,7.5,7.67,7.75,10,10,10,7.67,83.42,0.11,1450
+242,243,Colombia,huila,AlmacafÃ©,2016,2016-11-08,Exportadora de Cafe Condor S.A,7.75,7.5,7.75,7.58,7.58,7.58,10,10,10,7.58,83.33,0,1650
+243,244,Mexico,chiapas,AsociaciÃ³n Mexicana De CafÃ©s y CafeterÃ­as De Especialidad A.C.,2014,2015-07-14,ANDREAS KUSSMAUL,7.75,7.75,7.5,7.67,7.5,7.58,10,10,10,7.58,83.33,0.12,1200
+244,245,Colombia,santander,AlmacafÃ©,2015,2015-04-08,Exportadora de Cafe Condor S.A,7.67,7.75,7.42,7.83,7.83,7.42,10,10,10,7.42,83.33,0.11,1650
+245,246,"Tanzania, United Republic Of",arusha,Africa Fine Coffee Association,2014,2014-12-12,AFCA,7.75,7.58,7.67,7.58,7.58,7.58,10,10,10,7.58,83.33,0.12,1700
+246,247,Mexico,veracruz,AMECAFE,2013,2014-07-15,J.ANDRADE,7.67,7.67,7.58,7.67,7.5,7.58,10,10,10,7.67,83.33,0.12,1100
+247,248,Costa Rica,san ramon,Specialty Coffee Association,2014,2014-04-07,The Coffee Source Inc.,7.67,7.67,7.42,7.67,7.67,7.67,10,10,10,7.58,83.33,0.12,1300
+248,249,Costa Rica,central valley,Specialty Coffee Association of Costa Rica,2013,2014-02-14,Eric Thormaehlen,7.5,7.67,7.67,7.5,7.83,7.17,10,10,10,8,83.33,0.11,1200
+250,251,Burundi,kayanza,Specialty Coffee Association,2012,2012-08-29,Steven Kil,7.75,7.67,7.33,7.5,7.5,7.75,10,10,10,7.83,83.33,0,1880
+251,252,Colombia,huila,AlmacafÃ©,2012,2012-05-30,Exportadora de Cafe Condor S.A,7.5,7.67,7.67,7.58,7.67,7.58,10,10,10,7.67,83.33,0,1750
+252,253,Mexico,sierra madre occidental,Centro AgroecolÃ³gico del CafÃ© A.C.,2017,2017-03-07,CAFE DE DON BALBINO S.C. DE R.L. DE C.V.,7.67,7.83,7.42,7.83,7.33,7.5,10,10,10,7.67,83.25,0.11,1600
+253,254,Costa Rica,tarrazu,Specialty Coffee Association,2016,2017-01-30,Troy Quimby,7.5,7.5,7.83,7.5,7.67,7.67,10,10,10,7.58,83.25,0.11,1900
+254,255,Guatemala,nuevo oriente,Asociacion Nacional Del CafÃ©,2016,2016-08-12,Juan Luis Alvarado Romero,7.5,7.58,7.42,7.83,7.67,7.58,10,10,10,7.67,83.25,0.11,2100
+255,256,Mexico,cuarenteÃ±o,AsociaciÃ³n Mexicana De CafÃ©s y CafeterÃ­as De Especialidad A.C.,2015,2015-07-14,PRODUCTOS Y SERVICIOS CHILINDRON S.A. DE C.V.,7.83,7.75,7.5,7.58,7.58,7.58,10,10,10,7.42,83.25,0.12,1261
+258,259,Colombia,eje cafetero,AlmacafÃ©,2014,2014-06-24,CompaÃ±ia Colombiana Agroindustrial S.A,7.58,7.58,7.5,7.58,7.58,7.75,10,10,10,7.67,83.25,0,1483
+259,260,Guatemala,antigua,Asociacion Nacional Del CafÃ©,2014,2014-03-07,Juan Luis Alvarado Romero,7.5,7.67,7.58,7.67,7.67,7.5,10,10,10,7.67,83.25,0.1,1500
+260,261,Colombia,huila,AlmacafÃ©,2013,2013-08-02,Exportadora de Cafe Condor S.A,7.83,7.5,7.67,7.33,7.67,7.67,10,10,10,7.58,83.25,0.11,1750
+261,262,Mexico,chiapas,AMECAFE,2013,2013-03-29,CALIXTO GUILLEN VAZQUEZ,7.58,7.75,7.5,7.5,7.58,7.58,10,10,10,7.75,83.25,0.12,1300
+263,264,Brazil,grama valley,NUCOFFEE,2012,2012-02-23,NUCOFFEE,7.75,7.67,7.5,7.58,7.58,7.58,10,10,10,7.58,83.25,0.11,1200
+265,266,Colombia,la plata,AlmacafÃ©,2012,2012-02-09,Racafe & Cia S.C.A,7.67,7.67,7.5,7.5,7.58,7.67,10,10,10,7.67,83.25,0.11,1775
+266,267,Guatemala,oriente,Asociacion Nacional Del CafÃ©,2017,2017-08-24,Juan Luis Alvarado Romero,7.58,7.58,7.33,7.67,7.75,7.58,10,10,10,7.67,83.17,0.1,1901
+268,269,Vietnam,dala,Specialty Coffee Association,2017,2017-05-08,"Sunvirtue Co., Ltd.",7.58,7.42,7.08,7.33,7.58,8.58,10,10,10,7.58,83.17,0.07,1550
+269,270,Guatemala,antigua,Asociacion Nacional Del CafÃ©,2016,2016-05-23,Juan Luis Alvarado Romero,7.67,7.75,7.42,7.75,7.58,7.5,10,10,10,7.5,83.17,0.11,1500
+270,271,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2016,2016-05-02,CADEXSA,7.67,7.67,7.5,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,1450
+271,272,China,yunnan,Yunnan Coffee Exchange,2015,2016-04-06,Yunnan Coffee Exchange,7.5,7.67,7.33,7.67,7.67,7.67,10,10,10,7.67,83.17,0.11,1200
+272,273,China,dehong prefecture,Yunnan Coffee Exchange,2015,2016-04-05,Yunnan Coffee Exchange,7.67,7.67,7.5,7.67,7.42,7.58,10,10,10,7.67,83.17,0.1,1600
+273,274,El Salvador,apaneca,Salvadoran Coffee Council,2016,2016-03-29,Consejo SalvadoreÃ±o del CafÃ©,7.5,7.5,7.33,7.67,8,7.67,10,10,10,7.5,83.17,0,1350
+274,275,Guatemala,antigua,Asociacion Nacional Del CafÃ©,2015,2015-10-29,Juan Luis Alvarado Romero,7.5,7.75,7.5,7.83,7.58,7.5,10,10,10,7.5,83.17,0.11,1500
+275,276,Guatemala,oriente,Asociacion Nacional Del CafÃ©,2015,2015-09-29,Juan Luis Alvarado Romero,7.92,7.67,7.42,7.75,7.5,7.5,10,10,10,7.42,83.17,0.12,1650
+278,279,"Tanzania, United Republic Of",mbinga,Africa Fine Coffee Association,2014,2014-12-12,Tutunze Kahawa Ltd,7.58,7.67,7.67,7.58,7.42,7.58,10,10,10,7.67,83.17,0.13,1653
+279,280,Colombia,huila,AlmacafÃ©,2014,2014-11-05,Racafe & Cia S.C.A,7.58,7.5,7.5,7.67,7.5,7.67,10,10,10,7.75,83.17,0,1775
+280,281,Uganda,eastern,Uganda Coffee Development Authority,2014,2014-10-28,Kabum Trading company,8,7.67,7.5,7.42,7.33,7.58,10,10,10,7.67,83.17,0.1,1800
+281,282,Honduras,san marcos,Instituto HondureÃ±o del CafÃ©,2013,2014-04-12,Mayra Yessenia Torres,7.5,7.5,7.5,7.67,7.67,7.67,10,10,10,7.67,83.17,0.1,1450
+282,283,"Tanzania, United Republic Of",kilimanjaro,Tanzanian Coffee Board,2014,2014-01-31,Balam Hinyula,7.58,7.5,7.58,7.75,7.58,7.58,10,10,10,7.58,83.17,0.12,1800
+283,284,Mexico,chiapas,AMECAFE,2013,2013-03-29,NESTOR MENDEZ GOMEZ,7.75,7.58,7.58,7.58,7.5,7.42,10,10,10,7.75,83.17,0.11,1500
+285,286,Mexico,san bartolo tutotepec,AMECAFE,2012,2012-09-27,SAUL M. HERNANDEZ RAMIREZ,7.58,7.75,7.42,7.67,7.5,7.58,10,10,10,7.67,83.17,0.14,1089
+286,287,Colombia,huila,AlmacafÃ©,2012,2012-08-31,Racafe & Cia S.C.A,7.67,7.5,7.5,7.5,7.58,8.17,10,10,10,7.25,83.17,0.11,1775
+288,289,Colombia,huila,AlmacafÃ©,2012,2012-06-08,Exportadora de Cafe Condor S.A,7.58,7.67,7.5,7.58,7.67,7.67,10,10,10,7.5,83.17,0.11,1750
+289,290,Mexico,la concordia,AMECAFE,2012,2012-06-06,ALFREDO BOJALIL,7.5,7.75,7.58,7.58,7.67,7.5,10,10,10,7.58,83.17,0.11,1380
+294,295,Colombia,cundinamarca,AlmacafÃ©,2016,2017-02-20,CARCAFE LTDA CI,7.58,7.67,7.33,7.67,7.75,7.58,10,10,10,7.5,83.08,0,1799
+297,298,Costa Rica,central valley,Specialty Coffee Association of Costa Rica,2014,2014-07-15,Eric Thormaehlen,7.83,7.33,7.5,7.67,7.58,7.67,10,10,10,7.5,83.08,0.1,1300
+298,299,Mexico,santa catarina juquila,AMECAFE,2012,2012-06-06,MARIA LUISA DEL CARMEN ROJAS NARVAEZ,7.75,7.67,7.42,7.75,7.5,7.5,10,10,10,7.5,83.08,0.1,1400
+299,300,Indonesia,dolok sanggul,Specialty Coffee Association of Indonesia,2010,2010-11-29,Specialty Coffee Association of Indonesia,7.67,7.58,7.5,7.58,7.67,7.58,10,10,10,7.5,83.08,0,1350
+302,303,Uganda,"kasese, mt. rwenzori",Uganda Coffee Development Authority,2015,2016-07-18,UCFA,7.67,7.58,7.42,7.42,7.83,7.5,10,10,10,7.58,83,0.12,1473
+303,304,Uganda,"kasese, mt. rwenzori",Uganda Coffee Development Authority,2015,2016-07-18,UCFA,7.67,7.67,7.5,7.58,7.42,7.5,10,10,10,7.67,83,0.12,1645
+305,306,Vietnam,vietnam cau dat,Specialty Coffee Association,2014,2015-12-28,"Sunvirtue Co., Ltd.",7.75,7.67,7.58,7.58,7.42,7.67,9.33,10,10,8,83,0,1550
+306,307,Guatemala,nuevo oriente,Asociacion Nacional Del CafÃ©,2015,2015-07-08,Juan Luis Alvarado Romero,7.67,7.75,7.33,7.92,7.42,7.5,10,10,10,7.42,83,0.11,1550
+307,308,Guatemala,antigua,Asociacion Nacional Del CafÃ©,2015,2015-04-23,Juan Luis Alvarado Romero,7.83,7.67,7.25,7.67,7.75,7.5,10,10,10,7.33,83,0.11,1500
+309,310,Taiwan,?????,Blossom Valley International,2014,2014-11-23,CQI Taiwan ICP CQI??????,7.92,7.92,7.83,7.58,7.33,7.25,10,10,10,7.17,83,0.08,1200
+310,311,Uganda,kapchorwa,Uganda Coffee Development Authority,2013,2014-06-26,Star Cafe Ltd,7.83,7.58,7.5,7.5,7.58,7.5,10,10,10,7.5,83,0.12,1800
+311,312,Guatemala,antigua,Asociacion Nacional Del CafÃ©,2014,2014-03-07,Juan Luis Alvarado Romero,7.67,7.67,7.42,7.83,7.5,7.5,10,10,10,7.42,83,0.1,1500
+312,313,Costa Rica,central valley,Specialty Coffee Association of Costa Rica,2013,2014-02-14,Eric Thormaehlen,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,7.67,83,0.11,1200
+313,314,Colombia,huila,AlmacafÃ©,2013,2013-11-07,Racafe & Cia S.C.A,7.75,7.42,7.33,7.5,7.58,7.17,10,10,10,8.25,83,0.11,1775
+314,315,Colombia,huila,AlmacafÃ©,2013,2013-08-02,Exportadora de Cafe Condor S.A,7.83,7.5,7.58,7.33,7.5,7.67,10,10,10,7.58,83,0,1750
+317,318,Colombia,huila,AlmacafÃ©,2012,2012-10-23,Racafe & Cia S.C.A,7.5,7.5,7.42,7.58,7.75,7.58,10,10,10,7.67,83,0.11,1775
+319,320,Mexico,atoyac de alvarez,AMECAFE,2012,2012-07-26,SANTIAGO SOLIS AYERDI,7.67,7.83,7.5,7.58,7.58,7.67,9.33,10,10,7.83,83,0.11,1200
+320,321,Mexico,coatepec,AMECAFE,2012,2012-07-11,ALFREDO BOJALIL,7.5,7.67,7.5,7.5,7.58,7.58,10,10,10,7.67,83,0.11,1200
+321,322,Colombia,huila,AlmacafÃ©,2012,2012-05-11,Exportadora de Cafe Condor S.A,7.75,7.58,7.5,7.67,7.83,7.75,9.33,10,10,7.58,83,0,1625
+322,323,Colombia,huila,AlmacafÃ©,2012,2012-06-08,Exportadora de Cafe Condor S.A,7.67,7.58,7.58,7.58,7.67,7.42,10,10,10,7.5,83,0.11,1750
+323,324,Colombia,la plata,AlmacafÃ©,2011,2011-12-02,Racafe & Cia S.C.A,7.67,7.67,7.58,7.5,7.67,7.42,10,10,10,7.5,83,0.12,1775
+324,325,El Salvador,apaneca,Salvadoran Coffee Council,2017,2017-08-28,Consejo SalvadoreÃ±o del CafÃ©,7.5,7.5,7.75,7.58,7.92,7.83,10,10,9.33,7.5,82.92,0,1350
+325,326,Colombia,guayata,AlmacafÃ©,2017,2017-07-07,Racafe & Cia S.C.A,7.58,7.67,7.5,7.33,7.67,7.58,10,10,10,7.58,82.92,0.11,1500
+327,328,Ethiopia,"blida,kercha,guji,oromia",Blossom Valley International,2016,2016-02-26,CQI Taiwan ICP CQI??????,7.58,7.58,7.5,7.5,7.58,7.58,10,10,10,7.58,82.92,0,2000
+329,330,Philippines,"bukidnon, mindanao, philppines",Torch Coffee Lab Yunnan,2015,2015-07-31,Renee A. Perrine,7.58,7.58,7.67,7.58,7.5,7.5,10,10,10,7.5,82.92,0.11,1200
+330,331,Philippines,asia pacific,Specialty Coffee Association,2014,2015-07-21,Zarah Zamora Perez,8.08,7.5,7.67,7.42,7.33,7.5,10,10,10,7.42,82.92,0,1600
+331,332,Mexico,cuarenteÃ±o,AsociaciÃ³n Mexicana De CafÃ©s y CafeterÃ­as De Especialidad A.C.,2015,2015-07-14,PRODUCTOS Y SERVICIOS CHILINDRON S.A. DE C.V.,7.83,7.67,7.25,7.58,7.5,7.5,10,10,10,7.58,82.92,0.13,1059
+332,333,Mexico,chiapas,Specialty Coffee Association,2015,2015-06-11,Andrew Bowman,7.75,7.67,7.42,7.42,7.75,7.5,10,10,10,7.42,82.92,0.12,1300
+333,334,Uganda,eastern,Uganda Coffee Development Authority,2013,2014-06-27,Kawacom Uganda LTD,8,7.5,7.5,7.58,7.33,7.42,10,10,10,7.58,82.92,0.12,1650
+334,335,Uganda,west nile,Uganda Coffee Development Authority,2013,2014-06-27,Nyapea coffee farmers association,7.75,7.58,7.58,7.5,7.5,7.5,10,10,10,7.5,82.92,0.12,1400
+335,336,Guatemala,antigua,Asociacion Nacional Del CafÃ©,2014,2014-04-03,Juan Luis Alvarado Romero,7.75,7.5,7.42,7.58,7.67,7.5,10,10,10,7.5,82.92,0.1,1500
+336,337,Guatemala,antigua,Asociacion Nacional Del CafÃ©,2014,2014-03-07,Juan Luis Alvarado Romero,7.67,7.83,7.42,7.5,7.33,7.5,10,10,10,7.67,82.92,0.1,1500
+337,338,Colombia,huila,AlmacafÃ©,2013,2013-09-13,Racafe & Cia S.C.A,7.58,7.5,7.75,7.33,7.58,7.58,10,10,10,7.58,82.92,0.11,1900
+338,339,Colombia,huila,AlmacafÃ©,2013,2013-03-20,Exportadora de Cafe Condor S.A,7.75,7.5,7.25,7.5,7.75,7.5,10,10,10,7.67,82.92,0,1750
+339,340,Colombia,antioquia,AlmacafÃ©,2013,2013-01-22,Olam Agro Colombia,7.83,7.67,7.42,7.42,7.5,7.58,10,10,10,7.5,82.92,0.11,1450
+340,341,Mexico,petatlan,AMECAFE,2012,2012-07-26,MARIA GUADALUPE GOMEZ ANZO,7.58,7.58,7.33,7.25,7.58,7.75,10,10,10,7.83,82.92,0.1,1248
+341,342,Vietnam,don duong,Specialty Coffee Association,2012,2012-07-20,Royal Base Corporation,7.67,7.33,7.17,7.58,8.08,7.42,10,10,10,7.67,82.92,0,1040
+342,343,Mexico,la cumbre,AMECAFE,2012,2012-03-05,VERONICA LOPEZ CASTILLEJOS,8,7.92,7.67,7.17,7.67,7.42,9.33,10,10,7.75,82.92,0.14,1400
+343,344,Kenya,nyeri,Kenya Coffee Traders Association,2017,2017-10-13,Jungle Estate,7.75,7.58,7.42,7.58,7.5,7.5,10,10,10,7.5,82.83,0.1,1754
+344,345,Guatemala,san marcos,Asociacion Nacional Del CafÃ©,2017,2017-06-22,Juan Luis Alvarado Romero,7.5,7.58,7.33,7.67,7.58,7.58,10,10,10,7.58,82.83,0.11,1700
+346,347,El Salvador,"el balsamo, quezaltepec",Salvadoran Coffee Council,2016,2016-04-08,Consejo SalvadoreÃ±o del CafÃ©,7.33,7.67,7.67,7.83,7.33,7.67,10,10,10,7.33,82.83,0,1250
+347,348,Rwanda,gicumbi,Specialty Coffee Association,2015,2016-03-25,Samuel Muhirwa,7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,9.33,8,82.83,0.11,1900
+348,349,Vietnam,vietnam tutra,Specialty Coffee Association,2014,2016-01-19,"Sunvirtue Co., Ltd.",7.25,7.58,7.5,7.42,7.75,7.42,10,10,10,7.92,82.83,0.11,1040
+350,351,Colombia,huila,Blossom Valley International,2014,2015-03-21,EssenceCoffee,7.83,7.67,7.5,7.58,7.5,7.67,10,10,10,7.08,82.83,0,1600
+351,352,United States,berastagi,Specialty Coffee Association,2014,2015-02-20,Joshua Marsceau,7.42,7.58,7.25,7.5,7.75,7.75,10,10,10,7.58,82.83,0,1200
+352,353,Guatemala,antigua,Asociacion Nacional Del CafÃ©,2014,2014-03-24,Juan Luis Alvarado Romero,7.67,7.67,7.75,7.67,7.42,7.17,10,10,10,7.5,82.83,0.1,1500
+353,354,Colombia,santander,AlmacafÃ©,2013,2014-01-20,"Coffeebythebag.com , INC",7.5,7.42,7.58,7.5,7.58,7.58,10,10,10,7.67,82.83,0,1800
+354,355,Colombia,huila,AlmacafÃ©,2013,2013-05-10,Racafe & Cia S.C.A,7.83,7.5,7.5,7.42,7.5,7.5,10,10,10,7.58,82.83,0.11,1775
+355,356,"Tanzania, United Republic Of",arusha,Tanzanian Coffee Board,2012,2013-04-19,Edwin Agasso,7.67,7.5,7.33,7.25,7.58,7.75,10,10,10,7.75,82.83,0.11,1400
+356,357,Mexico,la concordia,AMECAFE,2012,2012-08-30,ARMANDO LUIS POHLENZ MARTINEZ,7.58,7.67,7.5,7.58,7.5,7.5,10,10,10,7.5,82.83,0.12,1550
+357,358,Mexico,veracruz,AMECAFE,2012,2012-07-11,ALFREDO BOJALIL,7.67,7.58,7.42,7.75,7.42,7.42,10,10,10,7.58,82.83,0.12,1250
+358,359,Mexico,la concordia,AMECAFE,2012,2012-06-06,ALFREDO BOJALIL,7.58,7.58,7.5,7.42,7.67,7.58,10,10,10,7.5,82.83,0.11,1380
+359,360,Guatemala,santa rosa,Asociacion Nacional Del CafÃ©,2017,2017-10-17,Juan Luis Alvarado Romero,7.58,7.67,7.5,7.58,7.5,7.42,10,10,10,7.5,82.75,0.11,1800
+360,361,Guatemala,san marcos,Asociacion Nacional Del CafÃ©,2017,2017-09-19,Juan Luis Alvarado Romero,7.5,7.67,7.17,7.67,7.67,7.58,10,10,10,7.5,82.75,0.11,1700
+361,362,Indonesia,sapan toraja,Specialty Coffee Association of Indonesia,2017,2017-08-08,SanJava Coffee,7.5,7.58,7.42,7.58,7.58,7.5,10,10,10,7.58,82.75,0.12,1500
+363,364,El Salvador,cacahuatique,Salvadoran Coffee Council,2017,2017-05-08,Consejo SalvadoreÃ±o del CafÃ©,7.67,7.67,7.17,7.33,7.58,7.67,10,10,10,7.67,82.75,0,1250
+364,365,Costa Rica,tarrazu,Specialty Coffee Association of Costa Rica,2016,2017-04-28,"CECA, S.A.",7.58,7.5,7.42,7.67,7.42,7.5,10,10,10,7.67,82.75,0.09,1850
+365,366,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2017,2017-04-06,Bismarck Castro,7.58,7.5,7.42,7.58,7.5,7.5,10,10,10,7.67,82.75,0.09,1400
+367,368,China,yunnan,Yunnan Coffee Exchange,2015,2016-04-06,Yunnan Coffee Exchange,7.67,7.5,7.33,7.33,7.67,7.67,10,10,10,7.58,82.75,0.1,1100
+368,369,China,menglian,Yunnan Coffee Exchange,2015,2016-04-05,Yunnan Coffee Exchange,7.5,7.67,7.42,7.67,7.5,7.5,10,10,10,7.5,82.75,0.11,1500
+369,370,Colombia,huila,AlmacafÃ©,2014,2014-11-07,Racafe & Cia S.C.A,7.5,7.58,7.58,7.75,7.33,7.5,10,10,10,7.5,82.75,0,1775
+370,371,Malawi,mzuzu,Africa Fine Coffee Association,2014,2014-11-04,AFCA,7.75,7.58,7.42,7.5,7.33,7.5,10,10,10,7.67,82.75,0.12,1442
+372,373,Colombia,antioquia,Specialty Coffee Association of Costa Rica,2013,2014-01-21,The Coffee Source Inc.,7.58,7.33,7.17,7.33,7.25,8.58,10,10,10,7.5,82.75,0.1,1300
+373,374,Mexico,chiapas,AMECAFE,2013,2013-03-29,NESTOR MENDEZ GOMEZ,7.58,7.58,7.5,7.5,7.5,7.5,10,10,10,7.58,82.75,0.12,1550
+374,375,Mexico,veracruz,AMECAFE,2012,2012-07-11,SERGIO DE LA VEQUIA BERNARDI,7.58,7.58,7.33,7.75,7.25,7.58,10,10,10,7.67,82.75,0.12,1200
+375,376,Mexico,atoyac de alvarez,AMECAFE,2012,2012-06-06,ROMULO BELLO FLORES,8.08,8.17,8,8,7.83,7.92,6.67,10,10,8.08,82.75,0.12,1200
+376,377,Colombia,south huila,AlmacafÃ©,2012,2012-04-11,,7.5,7.58,7.42,7.67,7.5,7.58,10,10,10,7.5,82.75,0,1625
+377,378,Colombia,huila,AlmacafÃ©,2012,2012-03-05,Racafe & Cia S.C.A,7.67,7.58,7.58,7.58,7.5,7.42,10,10,10,7.42,82.75,0.11,1775
+378,379,Panama,boquete,Specialty Coffee Association,2012,2012-02-23,Rachel Peterson,7.42,7.42,7.5,7.58,7.5,7.75,10,10,10,7.58,82.75,0,1100
+380,381,Laos,"paksong,laos",Blossom Valley International,2015,2016-06-02,CQI Taiwan ICP CQI??????,7.67,7.67,7.42,7.42,7.42,7.5,10,10,10,7.58,82.67,0.13,1300
+381,382,El Salvador,"el balsamo, quezaltepec",Salvadoran Coffee Council,2016,2016-03-29,Consejo SalvadoreÃ±o del CafÃ©,7.67,7.67,7.67,7.67,7.5,7.67,10,10,9.33,7.5,82.67,0,1200
+382,383,Mexico,veracruz,Centro AgroecolÃ³gico del CafÃ© A.C.,2016,2016-02-25,JosÃ© Luis Rojas Yeo,7.5,7.67,7.42,7.75,7.42,7.17,10,10,10,7.75,82.67,0.11,1300
+383,384,"Tanzania, United Republic Of",karatu arusha,Africa Fine Coffee Association,2014,2014-12-18,Nitin Coffee Estate,7.5,7.5,7.5,7.5,7.5,7.58,10,10,10,7.58,82.67,0.12,1700
+384,385,"Tanzania, United Republic Of",mbinga,Africa Fine Coffee Association,2014,2014-12-15,Taylor Winch (T) Ltd,7.58,7.5,7.5,7.58,7.33,7.58,10,10,10,7.58,82.67,0.12,1550
+385,386,Taiwan,?????,Blossom Valley International,2014,2014-11-23,CQI Taiwan ICP CQI??????,8,7.83,7.83,7.42,7.25,7.25,10,10,10,7.08,82.67,0.08,1200
+386,387,Mexico,la yerba,AMECAFE,2014,2014-08-15,PRODUCTOS Y SERVICIOS CHILINDRON S.A. DE C.V.,7.67,7.58,7.42,7.5,7.42,7.5,10,10,10,7.58,82.67,0.11,1296
+387,388,Uganda,mt elgon,Uganda Coffee Development Authority,2013,2014-06-25,Kawacom Uganda LTD,7.67,7.5,7.33,7.67,7.5,7.5,10,10,10,7.5,82.67,0.12,1650
+388,389,Thailand,phahi,Specialty Coffee Institute of Asia,2013,2013-09-03,???? Koju Matsuzawa,7.42,7.5,7.5,7.67,7.58,7.5,10,10,10,7.5,82.67,0.11,1500
+389,390,Colombia,huila,AlmacafÃ©,2012,2013-01-22,Exportadora de Cafe Condor S.A,7.75,7.58,7.67,7.25,7.58,7.42,10,10,10,7.42,82.67,0.11,1800
+390,391,Guatemala,antigua,Asociacion Nacional Del CafÃ©,2012,2012-07-17,Juan Luis Alvarado Romero,7.67,7.67,7.17,7.67,7.5,7.5,10,10,10,7.5,82.67,0.11,1500
+392,393,Taiwan,??? guoshing township,Specialty Coffee Association,2016,2017-08-22,"Lin, Che-Hao Krude ???",7.67,7.42,7.5,7.42,7.58,7.5,10,10,10,7.5,82.58,0.11,1050
+393,394,Indonesia,aceh,Torch Coffee Lab Yunnan,2015,2015-09-15,Andry Simarmata,7.83,7.58,7.42,7.33,7.42,7.5,10,10,10,7.5,82.58,0.13,1250
+395,396,Thailand,chiangrai,Specialty Coffee Institute of Asia,2014,2015-02-15,???? Koju Matsuzawa,7.42,7.58,7.58,7.42,7.58,7.5,10,10,10,7.5,82.58,0.12,1450
+396,397,"Tanzania, United Republic Of",ikand village,Africa Fine Coffee Association,2014,2014-12-12,Tembo Coffee Company Ltd,7.75,7.42,7.33,7.5,7.58,7.5,10,10,10,7.5,82.58,0.12,1317
+397,398,Uganda,eastern,Uganda Coffee Development Authority,2013,2014-06-30,Kawacom Uganda LTD,7.83,7.5,7.42,7.58,7.42,7.42,10,10,10,7.42,82.58,0.12,1650
+398,399,Costa Rica,central valley,Specialty Coffee Association of Costa Rica,2013,2014-05-09,Eric Thormaehlen,7.67,7.42,7.5,7.67,7,7.75,10,10,10,7.58,82.58,0.11,1300
+399,400,Colombia,huila,AlmacafÃ©,2013,2013-04-16,Exportadora de Cafe Condor S.A,7.75,7.25,7.33,7.42,7.5,7.83,10,10,10,7.5,82.58,0.11,1750
+400,401,Colombia,huila,AlmacafÃ©,2012,2012-10-09,Exportadora de Cafe Condor S.A,7.75,7.5,7.75,7.25,7.33,7.58,10,10,10,7.42,82.58,0.11,1750
+401,402,Colombia,huila,AlmacafÃ©,2013,2013-02-27,Exportadora de Cafe Condor S.A,7.58,7.5,7.42,7.58,7.67,7.42,10,10,10,7.42,82.58,0.11,1750
+402,403,Mexico,oaxaca,AMECAFE,2012,2012-09-04,GUILLERMO ROJAS SALDANA,7.5,7.58,7.5,7.5,7.42,7.5,10,10,10,7.58,82.58,0.1,1250
+403,404,Mexico,colima,AMECAFE,2012,2012-07-02,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7.67,7.58,7.58,7.75,7.67,6.83,10,10,10,7.5,82.58,0.12,1150
+404,405,Colombia,huila,AlmacafÃ©,2012,2012-06-13,Racafe & Cia S.C.A,7.33,7.42,7.58,7.42,7.67,7.5,10,10,10,7.67,82.58,0.11,1775
+406,407,Indonesia,bali,Specialty Coffee Association of Indonesia,2017,2017-09-04,SanJava Coffee,7.83,7.75,7.25,7.5,7.42,7.33,10,10,10,7.42,82.5,0.11,1250
+407,408,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2017,2017-06-03,Elsy Reyes,7.58,7.58,7.33,7.5,7.5,7.5,10,10,10,7.5,82.5,0.1,1400
+409,410,Thailand,chiangrai,Specialty Coffee Institute of Asia,2014,2015-02-15,???? Koju Matsuzawa,7.33,7.5,7.5,7.5,7.67,7.5,10,10,10,7.5,82.5,0.11,1450
+410,411,"Tanzania, United Republic Of",karatu arusha,Africa Fine Coffee Association,2014,2014-12-18,Shah Plantations,7.67,7.42,7.33,7.58,7.5,7.5,10,10,10,7.5,82.5,0.12,1600
+411,412,Mexico,chiapas,Specialty Coffee Association,2013,2014-04-14,LUSSO LAB,7.42,7.58,7.5,7.67,7.25,7.5,10,10,10,7.58,82.5,0,1600
+412,413,Colombia,huila,AlmacafÃ©,2013,2013-05-07,Exportadora de Cafe Condor S.A,7.5,7.5,7.42,7.42,7.58,7.58,10,10,10,7.5,82.5,0.11,1750
+413,414,Mexico,san bartolo tutotepec,AMECAFE,2012,2012-09-27,SAUL M. HERNANDEZ RAMIREZ,7.5,7.58,7.5,7.5,7.42,7.42,10,10,10,7.58,82.5,0.13,1679
+414,415,Mexico,zapotitlan de mendez,AMECAFE,2012,2012-07-26,ENRIQUE MITRE LOPEZ,7.67,7.5,7.33,7.67,7.5,7.33,10,10,10,7.5,82.5,0.12,1100
+415,416,Mexico,la concordia,AMECAFE,2012,2012-06-07,Enrique Eduardo Lopez Aguilar,7.92,7.5,7.33,7.58,7.25,7.42,10,10,10,7.5,82.5,0.11,1650
+416,417,Brazil,carmo de minas,NUCOFFEE,2012,2012-03-16,Jacques Pereira Carneiro,7.67,7.42,7.33,7.67,7.5,7.5,10,10,10,7.42,82.5,0,1250
+417,418,Colombia,huila,AlmacafÃ©,2012,2012-03-05,Racafe & Cia S.C.A,7.67,7.5,7.33,7.5,7.25,7.67,10,10,10,7.58,82.5,0.11,1775
+418,419,Honduras,"comayagua, honduras",Specialty Coffee Association,2017,2017-09-27,Brian Beck,7.42,7.67,7.17,7.58,7.58,7.5,10,10,10,7.5,82.42,0.12,1500
+419,420,Guatemala,san marcos,Asociacion Nacional Del CafÃ©,2017,2017-09-08,Juan Luis Alvarado Romero,7.58,7.5,7.33,7.75,7.33,7.5,10,10,10,7.42,82.42,0.1,1700
+420,421,Guatemala,san marcos,Asociacion Nacional Del CafÃ©,2016,2017-06-01,Juan Luis Alvarado Romero,7.67,7.58,7.25,7.67,7.42,7.33,10,10,10,7.5,82.42,0.12,1700
+421,422,Colombia,guayata,AlmacafÃ©,2016,2016-08-05,Racafe & Cia S.C.A,5.08,7.75,7.83,7.75,7.83,8.08,10,10,10,8.08,82.42,0.11,1600
+422,423,China,yunnan,Yunnan Coffee Exchange,2015,2016-04-06,Yunnan Coffee Exchange,7.67,7.42,7.42,7.5,7.42,7.42,10,10,10,7.58,82.42,0.1,1600
+423,424,Guatemala,atitlan,Specialty Coffee Association of Costa Rica,2013,2014-12-18,The Coffee Source Inc.,7.5,7.5,7.5,7.67,7.42,7.5,10,10,10,7.33,82.42,0.1,1400
+424,425,Mexico,la yerba,AMECAFE,2014,2014-08-14,PRODUCTOS Y SERVICIOS CHILINDRON S.A. DE C.V.,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,7.58,82.42,0.11,1296
+426,427,Mexico,veracruz,AMECAFE,2013,2013-12-12,MANUEL HERRERA JUAREZ,7.5,7.58,7.5,7.92,7.42,7.67,9.33,10,10,7.5,82.42,0.12,1170
+427,428,Colombia,huila,AlmacafÃ©,2013,2013-05-31,Racafe & Cia S.C.A,7.67,7.42,7.33,7.5,7.58,7.5,10,10,10,7.42,82.42,0.11,1775
+428,429,Mexico,chiapas,AMECAFE,2013,2013-03-29,NESTOR MENDEZ GOMEZ,7.5,7.42,7.42,7.67,7.42,7.58,10,10,10,7.42,82.42,0.12,1560
+429,430,Mexico,san pedro cotzilnam,AMECAFE,2012,2012-09-11,JESUS SALAZAR VELASCO,7.42,7.58,7.5,7.42,7.58,7.5,10,10,10,7.42,82.42,0.13,1400
+430,431,Mexico,coatepec,AMECAFE,2012,2012-09-10,"El Equimite, Cafetal BiodinÃ¡mico",7.42,7.58,7.33,7.58,7.5,7.5,10,10,10,7.5,82.42,0.14,1300
+431,432,Mexico,xalapa,AMECAFE,2012,2012-08-31,MANUEL HERRERA JUAREZ,7.75,7.33,7.25,7.58,7.58,7.33,10,10,10,7.58,82.42,0.13,1170
+432,433,Mexico,zihuatanejo de azueta,AMECAFE,2012,2012-07-25,DARIO CESAR GALEANA SANCHEZ,7.5,7.58,7.33,7.5,7.5,7.5,10,10,10,7.5,82.42,0.11,1300
+433,434,Mexico,veracruz,AMECAFE,2012,2012-07-11,JOSE DANIEL COBILT CASTRO,7.58,7.58,7.17,7.5,7.5,7.5,10,10,10,7.58,82.42,0.14,1350
+434,435,Mexico,xicotepec de juarez,AMECAFE,2012,2012-07-03,ALVARO QUIROS PEREZ,7.58,7.33,7.33,7.58,7.5,7.5,10,10,10,7.58,82.42,0.11,1150
+435,436,Mexico,progreso santa rosa teocelo,AMECAFE,2012,2012-06-06,OLIVIA HERNANDEZ VIRVES,7.67,7.58,7.33,7.42,7.58,7.33,10,10,10,7.5,82.42,0.13,1250
+436,437,Mexico,fln mirador,AMECAFE,2012,2012-04-09,FINCA LAS NIEVES,7.83,7.5,7.42,7.67,7.17,7.33,10,10,10,7.5,82.42,0.12,1450
+438,439,Colombia,huila,AlmacafÃ©,2011,2011-12-22,Exportadora de Cafe Condor S.A,7.33,7.58,7.17,7.58,7.42,7.58,10,10,10,7.75,82.42,0,1750
+439,440,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2017,2017-04-06,Bismarck Castro,7.5,7.58,7.33,7.5,7.42,7.42,10,10,10,7.58,82.33,0.1,1396
+442,443,Costa Rica,tarrazu,Specialty Coffee Association of Costa Rica,2015,2016-07-15,"CECA, S.A.",7.75,7.5,7.25,7.25,7.42,7.67,10,10,10,7.5,82.33,0.1,1850
+443,444,Costa Rica,tarrazu,Specialty Coffee Association of Costa Rica,2015,2016-05-17,Rodrigo Soto,7.75,7.33,7.5,7.5,7.33,7.58,10,10,10,7.33,82.33,0,1550
+444,445,China,xishuangbanna prefecture,Yunnan Coffee Exchange,2015,2016-04-05,Yunnan Coffee Exchange,7.5,7.58,7.42,7.5,7.42,7.42,10,10,10,7.5,82.33,0.12,1580
+445,446,Malawi,mzuzu,Africa Fine Coffee Association,2014,2014-11-04,AFCA,7.33,7.58,7.42,7.58,7.33,7.5,10,10,10,7.58,82.33,0.12,1450
+446,447,Colombia,antioquia,Specialty Coffee Association of Costa Rica,2013,2014-01-21,The Coffee Source Inc.,7.42,7.33,7.5,7.17,7.08,8.33,10,10,10,7.5,82.33,0.1,1300
+447,448,Colombia,huila,AlmacafÃ©,2013,2013-06-21,Exportadora de Cafe Condor S.A,7.5,7.42,7.5,7.5,7.5,7.58,10,10,10,7.33,82.33,0,1750
+448,449,Mexico,"la concordia, chiapas",AMECAFE,2013,2013-03-15,ALFREDO BOJALIL,7.67,7.5,7.42,7.5,7.42,7.42,10,10,10,7.42,82.33,0.12,1300
+450,451,Mexico,veracruz,AMECAFE,2012,2012-08-31,MANUEL HERRERA JUAREZ,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,7,82.33,0.13,1170
+451,452,Brazil,grama valley,NUCOFFEE,2012,2012-04-11,NUCOFFEE,7.58,7.5,7.42,7.5,7.5,7.42,10,10,10,7.42,82.33,0.12,1100
+452,453,Mexico,santa catarina juquila,AMECAFE,2012,2012-03-05,MARIA LUISA DEL CARMEN ROJAS NARVAEZ,8,7.75,7.33,7.33,7.08,7.67,9.33,10,10,7.83,82.33,0.11,1300
+455,456,Guatemala,nuevo oriente,Asociacion Nacional Del CafÃ©,2016,2016-08-31,Juan Luis Alvarado Romero,7.67,7.5,7.25,7.67,7.42,7.42,10,10,10,7.33,82.25,0.11,1450
+456,457,El Salvador,apaneca,Salvadoran Coffee Council,2014,2015-07-08,Consejo SalvadoreÃ±o del CafÃ©,7.58,7.67,7.5,7.67,7.83,8.42,9.33,9.33,9.33,7.58,82.25,0.12,1500
+457,458,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2015,2015-04-15,CADEXSA,7.58,7.5,7.42,7.58,7.42,7.42,10,10,10,7.33,82.25,0.11,1350
+458,459,Malawi,mzuzu,Africa Fine Coffee Association,2014,2014-11-04,AFCA,7.58,7.42,7.33,7.42,7.58,7.5,10,10,10,7.42,82.25,0.13,1180
+459,460,Mexico,veracruz,AMECAFE,2013,2013-07-19,JESUS CARLOS CARDENAS VALDIVIA,7.58,7.58,7.42,7.42,7.42,7.42,10,10,10,7.42,82.25,0.12,1338
+461,462,Mexico,veracruz,AMECAFE,2012,2012-08-31,MANUEL HERRERA JUAREZ,7.5,7.58,7.42,7.67,7.33,7.42,10,10,10,7.33,82.25,0.13,1170
+462,463,Mexico,juquila,AMECAFE,2012,2012-08-30,GUILLERMO ROJAS SALDANA,7.67,7.58,7.33,7.5,7.42,7.42,10,10,10,7.33,82.25,0.12,1250
+463,464,Mexico,veracruz,AMECAFE,2012,2012-07-11,SERGIO DE LA VEQUIA BERNARDI,7.33,7.58,7.42,7.67,7.33,7.5,10,10,10,7.42,82.25,0.11,1100
+465,466,Colombia,huila,AlmacafÃ©,2012,2012-02-22,Exportadora de Cafe Condor S.A,7.5,7.42,7.67,7.33,7.58,7.33,10,10,10,7.42,82.25,0.12,1750
+466,467,Colombia,huila,AlmacafÃ©,2012,2012-02-09,Racafe & Cia S.C.A,7.67,7.33,7.33,7.33,7.5,7.5,10,10,10,7.58,82.25,0.11,1775
+468,469,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2015,2016-06-09,Bismarck Castro,7.5,7.5,7.17,7.42,7.5,7.5,10,10,10,7.58,82.17,0.11,1500
+469,470,"Tanzania, United Republic Of",ruvuma,Africa Fine Coffee Association,2015,2015-11-16,Langiro Farm group,7.58,7.42,7.42,7.33,7.5,7.42,10,10,10,7.5,82.17,0.13,1650
+471,472,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2015,2015-04-15,CADEXSA,7.67,7.5,7.25,7.42,7.58,7.42,10,10,10,7.33,82.17,0.11,1350
+472,473,Guatemala,atitlan,Blossom Valley International,2014,2015-03-21,EssenceCoffee,7.42,7.42,7.5,7.5,7.42,7.5,10,10,10,7.42,82.17,0.09,1500
+473,474,"Tanzania, United Republic Of","ilomba vilage, mbozi",Africa Fine Coffee Association,2014,2014-12-15,Tembo Coffee Company Ltd,7.75,7.42,7.42,7.58,7.33,7.42,10,10,10,7.25,82.17,0.12,1700
+474,475,Mexico,veracruz,AMECAFE,2013,2014-07-15,J.ANDRADE,7.42,7.33,7.17,7.42,7.33,8.17,10,10,10,7.33,82.17,0.12,1100
+475,476,Mexico,"la concordia, chiapas",Specialty Coffee Association,2013,2014-04-10,LUSSO LAB,7.5,7.5,7.33,7.42,7.5,7.42,10,10,10,7.5,82.17,0.1,1400
+477,478,Colombia,huila,AlmacafÃ©,2013,2013-03-20,Exportadora de Cafe Condor S.A,7.33,7.25,7.25,7.58,7.75,7.5,10,10,10,7.5,82.17,0,1750
+478,479,Mexico,san bartolo tutotepec,AMECAFE,2012,2012-09-27,SAUL M. HERNANDEZ RAMIREZ,7.5,7.67,7,7.5,7.33,7.5,10,10,10,7.67,82.17,0.15,1144
+479,480,Guatemala,oriente,Specialty Coffee Association,2012,2012-08-02,The Coffee Source Inc.,7.25,7.75,7,7.75,8.17,7.75,10,10,9.33,7.17,82.17,0.12,1350
+481,482,Mexico,colima,AMECAFE,2012,2012-07-02,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7,7.67,7.5,7.5,7.42,7.5,10,10,10,7.58,82.17,0.1,1200
+482,483,Indonesia,aceh gayo,Specialty Coffee Association of Indonesia,2017,2017-08-03,SanJava Coffee,7.5,7.5,7.42,7.42,7.5,7.42,10,10,10,7.33,82.08,0.15,1300
+484,485,Costa Rica,tres rios,Specialty Coffee Association of Costa Rica,2015,2015-04-10,"CAFETALERA INTERNACIONAL CAFINTER, S.A.",7.75,7.42,7.42,7.25,7.17,7.42,10,10,10,7.67,82.08,0,1300
+485,486,"Tanzania, United Republic Of",kilimanjaro,Tanzanian Coffee Board,2014,2015-03-25,Balam Hinyula,7.42,7.33,7.42,7.42,7.5,7.58,10,10,10,7.42,82.08,0.12,1500
+486,487,"Tanzania, United Republic Of",ngorogoro,Africa Fine Coffee Association,2014,2015-01-08,Ngorogoro Convenant Estate,7.42,7.5,7.5,7.33,7.33,7.5,10,10,10,7.5,82.08,0.12,1600
+488,489,Mexico,coatepec,AMECAFE,2012,2012-09-10,"El Equimite, Cafetal BiodinÃ¡mico",7.42,7.58,7.5,7.33,7.42,7.42,10,10,10,7.42,82.08,0.13,1300
+489,490,Mexico,tapachula,AMECAFE,2012,2012-08-30,JULIO PEREZ HERNANDEZ,7.5,7.42,7.42,7.5,7.25,7.5,10,10,10,7.5,82.08,0.13,1800
+490,491,Mexico,coatepec,AMECAFE,2012,2012-07-26,ROSA AURORA FALCON FERNANDEZ,7.67,7.5,7.25,7.58,7.42,7.33,10,10,10,7.33,82.08,0.11,1250
+491,492,Vietnam,don duong,Specialty Coffee Association,2012,2012-07-23,Royal Base Corporation,7.67,8,7.17,7.08,7.67,7.08,10,10,10,7.42,82.08,0.12,1040
+492,493,Mexico,veracruz,AMECAFE,2012,2012-07-11,SERGIO DE LA VEQUIA BERNARDI,7.58,7.42,7.25,7.75,7.33,7.42,10,10,10,7.33,82.08,0.11,1250
+493,494,Honduras,el paraÃ­so,Instituto HondureÃ±o del CafÃ©,2017,2017-06-01,Bismarck Castro,7.5,7.5,7.17,7.5,7.5,7.42,10,10,10,7.42,82,0.12,1600
+494,495,Honduras,guinope el paraÃ­so,Instituto HondureÃ±o del CafÃ©,2016,2017-04-06,Bismarck Castro,7.5,7.5,7.25,7.33,7.42,7.5,10,10,10,7.5,82,0.1,1600
+496,497,"Tanzania, United Republic Of",kilimanjaro,Africa Fine Coffee Association,2015,2015-11-16,Didas,7.67,7.33,7.33,7.42,7.42,7.42,10,10,10,7.42,82,0.13,1650
+497,498,Laos,lao p.d.r.,Specialty Coffee Institute of Asia,2015,2015-11-05,Minwook Ku,7.42,7.5,7.25,7.33,7.5,7.5,10,10,10,7.5,82,0.12,1250
+498,499,"Tanzania, United Republic Of",meru,Africa Fine Coffee Association,2014,2014-12-18,Finca Estate,7.42,7.42,7.33,7.58,7.33,7.42,10,10,10,7.5,82,0.12,1350
+502,503,Costa Rica,central valley,Specialty Coffee Association of Costa Rica,2013,2014-06-09,Eric Thormaehlen,7.5,7.25,7.33,7.33,7.75,7.5,10,10,10,7.33,82,0.1,1300
+503,504,Honduras,occidental,Instituto HondureÃ±o del CafÃ©,2014,2014-04-30,Beneficio Santa Rosa,7.33,7.33,7.33,7.5,7.5,7.83,10,10,10,7.17,82,0.11,1400
+504,505,Colombia,huila,AlmacafÃ©,2013,2013-09-13,Racafe & Cia S.C.A,7.33,7.33,7.58,7.5,7.5,7.58,10,10,10,7.17,82,0.11,1900
+506,507,Brazil,"minas gerais, br",Specialty Coffee Association,2012,2013-05-21,Owen Carver,7.33,7.67,7.42,7.17,7.33,7.42,10,10,10,7.67,82,0.11,1038.5
+509,510,Brazil,cerrado,NUCOFFEE,2012,2012-04-11,NUCOFFEE,7.42,7.5,7.25,7.5,7.5,7.42,10,10,10,7.42,82,0.11,1050
+511,512,Guatemala,oriente,Asociacion Nacional Del CafÃ©,2017,2017-08-22,Juan Luis Alvarado Romero,7.58,7.5,7.25,7.58,7.58,7.5,9.33,10,10,7.58,81.92,0.1,1901
+512,513,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2017,2017-06-01,Bismarck Castro,7.58,7.5,7.25,7.33,7.42,7.5,10,10,10,7.33,81.92,0.12,1400
+513,514,El Salvador,"el balsamo, quezaltepec",Salvadoran Coffee Council,2014,2015-05-05,Consejo SalvadoreÃ±o del CafÃ©,7.67,7.58,7.33,7.5,7.5,7.67,10,10,9.33,7.33,81.92,0.11,1250
+514,515,Guatemala,nuevo oriente,Asociacion Nacional Del CafÃ©,2015,2015-04-20,Juan Luis Alvarado Romero,7.58,7.58,7.17,7.83,7.17,7.33,10,10,10,7.25,81.92,0.11,1550
+515,516,"Tanzania, United Republic Of",mbeya,Africa Fine Coffee Association,2014,2015-01-06,Mcomafa Co Ltd,7.33,7.33,7.33,7.42,7.5,7.58,10,10,10,7.42,81.92,0.12,1877
+516,517,Zambia,mubuyu estate,Specialty Coffee Association,2014,2014-06-20,LUSSO LAB,7.67,7.08,7.42,7.33,7.75,7.42,10,10,10,7.25,81.92,0,1250
+518,519,Mexico,chiapas,AMECAFE,2013,2013-03-29,CALIXTO GUILLEN VAZQUEZ,7.58,7.5,7.25,7.58,7.5,7.25,10,10,10,7.25,81.92,0.12,1300
+521,522,Mexico,veracruz,AMECAFE,2012,2012-07-11,JUAN HERMILIO SAMPIERI CARCAMO,7.33,7.58,7.17,7.58,7.42,7.33,10,10,10,7.5,81.92,0.12,1650
+523,524,Brazil,grama valley,NUCOFFEE,2012,2012-02-29,NUCOFFEE,7.42,7.58,7.25,7.5,7.33,7.5,10,10,10,7.33,81.92,0.12,1100
+524,525,Costa Rica,tarrazu,Specialty Coffee Association,2016,2017-02-13,Troy Quimby,7.25,7.33,7.5,7.33,7.67,7.42,10,10,10,7.33,81.83,0,1900
+526,527,Indonesia,bali,Specialty Coffee Association,2015,2017-01-19,Aulia Arif Syahri,7.75,7.83,7.58,7.75,7.92,7.83,10,10,10,5.17,81.83,0.11,1250
+529,530,Mexico,chiapas,AsociaciÃ³n Mexicana De CafÃ©s y CafeterÃ­as De Especialidad A.C.,2015,2015-06-25,VIRIDIANA,7.58,7.5,7.33,7.5,7.17,7.33,10,10,10,7.42,81.83,0.11,1425
+530,531,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2015,2015-05-12,CADEXSA,7.5,7.5,7.33,7.5,7.42,7.25,10,10,10,7.33,81.83,0.12,1400
+531,532,Costa Rica,tres rios,Specialty Coffee Association of Costa Rica,2015,2015-05-07,"CAFETALERA INTERNACIONAL CAFINTER, S.A.",7.67,7.5,7.5,7.25,7.08,7.42,10,10,10,7.42,81.83,0.09,1300
+533,534,Indonesia,lington nihuta,Blossom Valley International,2014,2015-03-21,EssenceCoffee,7.42,7.42,7.42,7.33,7.42,7.42,10,10,10,7.42,81.83,0.11,1300
+534,535,Malawi,kakoma,Africa Fine Coffee Association,2014,2014-10-31,AFCA,7.58,7.42,7.33,7.33,7.33,7.42,10,10,10,7.42,81.83,0.13,1556
+535,536,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2014,2014-05-16,,7.5,7.5,7.33,7.33,7.33,7.33,10,10,10,7.5,81.83,0.1,1350
+536,537,Mexico,"siltepec el triunfo, chiapas, mexico",Specialty Coffee Association,2014,2014-04-26,Kurt Kappeli,7.42,7.42,7.25,7.5,7.33,7.42,10,10,10,7.5,81.83,0.11,1550
+537,538,Colombia,huila,AlmacafÃ©,2013,2013-07-19,Racafe & Cia S.C.A,7.5,7.5,7,7.42,7.5,7.58,10,10,10,7.33,81.83,0,1775
+538,539,Brazil,sul de minas,Specialty Coffee Association,2012,2013-03-02,Jacques Pereira Carneiro,7.75,7.75,7.5,7.42,7.83,7.75,9.33,9.33,9.33,7.83,81.83,0.12,1250
+539,540,Mexico,veracruz,AMECAFE,2012,2012-08-31,CHRISTINA DUSING,7.83,7.33,7.25,7.58,7.25,7.33,10,10,10,7.25,81.83,0.12,1500
+540,541,Mexico,coatepec,AMECAFE,2012,2012-07-11,JORGE FRANCISCO MARTINEZ HACHITY,7.33,7.33,7.25,7.5,7.5,7.5,10,10,10,7.42,81.83,0.12,1250
+542,543,Guatemala,san marcos,Asociacion Nacional Del CafÃ©,2017,2017-06-22,Juan Luis Alvarado Romero,7.5,7.5,7.25,7.42,7.42,7.33,10,10,10,7.33,81.75,0.11,1700
+543,544,Vietnam,vietnam,Specialty Coffee Association,2014,2015-12-21,"Sunvirtue Co., Ltd.",7,7.08,7.33,7.5,7.5,7.33,10,10,10,8,81.75,0.12,1040
+544,545,"Tanzania, United Republic Of",ngorogoro,Africa Fine Coffee Association,2014,2015-01-08,Ngorogoro Convenant Estate,7.42,7.42,7.42,7.42,7.33,7.33,10,10,10,7.42,81.75,0.12,1600
+546,547,Mexico,tepictla,AMECAFE,2012,2012-09-10,SERGIO LANDA ALARCON,7.42,7.5,7.17,7.67,7.33,7.42,10,10,10,7.25,81.75,0.13,1250
+547,548,Mexico,oaxaca,AMECAFE,2012,2012-09-04,DIEGO MANUEL WOOLRICH RAMIREZ,7.42,7.5,7.33,7.58,7.33,7.33,10,10,10,7.25,81.75,0.11,1100
+548,549,Mexico,la concordia,AMECAFE,2012,2012-08-30,ARMANDO LUIS POHLENZ MARTINEZ,7.33,7.42,7.33,7.67,7.42,7.25,10,10,10,7.33,81.75,0.12,1550
+549,550,Mexico,la concordia,AMECAFE,2012,2012-06-06,Enrique Eduardo Lopez Aguilar,7.5,7.42,7.25,7.33,7.67,7.25,10,10,10,7.33,81.75,0.12,1650
+550,551,Colombia,huila,AlmacafÃ©,2011,2011-12-22,Exportadora de Cafe Condor S.A,7.33,7.42,7.33,7.33,7.5,7.67,10,10,10,7.17,81.75,0,1750
+551,552,Guatemala,san marcos,Asociacion Nacional Del CafÃ©,2017,2017-08-22,Juan Luis Alvarado Romero,7.42,7.42,7.08,7.42,7.33,7.42,10,10,10,7.58,81.67,0.1,1700
+552,553,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2016,2016-05-02,CADEXSA,7.58,7.5,7.33,7.33,7.42,7.25,10,10,10,7.25,81.67,0.11,1450
+553,554,"Tanzania, United Republic Of",mbinga,Tanzanian Coffee Board,2016,2016-04-27,Taylor Winch (Coffee) Ltd.,7.17,7.33,7.33,7.42,7.5,7.33,10,10,10,7.58,81.67,0,1800
+554,555,"Tanzania, United Republic Of",mbinga,Africa Fine Coffee Association,2014,2015-01-02,DAE Ltd Company,7.42,7.33,7.25,7.42,7.5,7.42,10,10,10,7.33,81.67,0.12,1500
+555,556,"Tanzania, United Republic Of","ilomba vilage, mbozi",Africa Fine Coffee Association,2013,2014-12-15,Tembo Coffee Company Ltd,7.33,7.33,7.5,7.25,7.42,7.33,10,10,10,7.5,81.67,0.12,1700
+556,557,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2014,2014-05-16,,7.5,7.33,7.5,7.5,7.17,7.17,10,10,10,7.5,81.67,0.1,1400
+557,558,Costa Rica,tarrazu,Specialty Coffee Association of Costa Rica,2013,2014-04-26,"CECA, S.A.",7.5,7.17,7.17,7.17,7.5,7.08,10,10,10,8.08,81.67,0.11,1850
+558,559,Mexico,"la concordia, chiapas",AMECAFE,2013,2013-03-29,FREDY GORDILLO REYES,7.5,7.42,7.08,7.58,7.33,7.33,10,10,10,7.42,81.67,0.12,1400
+559,560,Mexico,tuxtla gutierrez,AMECAFE,2012,2012-09-11,VIRGINIA GORDILLO GORDILLO,7.25,7.67,7.58,7.67,7.67,7.58,8.67,10,10,7.58,81.67,0.13,1650
+560,561,Mexico,yajalon,AMECAFE,2012,2012-08-30,JOSE LUIS MUNOZ GUERRERO,7.67,7.25,7.17,7.75,7.5,7.25,10,10,10,7.08,81.67,0.11,1400
+561,562,Mexico,veracruz,AMECAFE,2012,2012-07-27,CHRISTINA DUSING,7.5,7.42,7.33,7.42,7.42,7.42,10,10,10,7.17,81.67,0.11,1200
+562,563,Mexico,"la concordia, chiapas",AMECAFE,2012,2012-04-02,ALFREDO BOJALIL,7.58,7.42,7.25,7.58,7.25,7.17,10,10,10,7.42,81.67,0.11,1400
+564,565,Honduras,western region,Instituto HondureÃ±o del CafÃ©,2018,2018-01-19,MDH,7.5,7.42,7.08,7.42,7.5,7.33,10,10,10,7.33,81.58,0.11,1200
+568,569,"Tanzania, United Republic Of","oldeani , mongola",Africa Fine Coffee Association,2014,2014-12-18,Acacia Hills Ltd,7.42,7.42,7.33,7.42,7.42,7.33,10,10,10,7.25,81.58,0.12,1800
+569,570,Malawi,mzuzu,Africa Fine Coffee Association,2014,2014-10-31,AFCA,7.42,7.42,7.17,7.58,7.33,7.33,10,10,10,7.33,81.58,0.13,1100
+571,572,Mexico,"la concordia, chiapas",AMECAFE,2013,2013-03-29,FREDY GORDILLO REYES,7.67,7.5,7.42,7.5,6.75,7.42,10,10,10,7.33,81.58,0.12,1400
+572,573,Mexico,la concordia,AMECAFE,2012,2012-06-06,Enrique Eduardo Lopez Aguilar,7.33,7.5,7.25,7.5,7.5,7.17,10,10,10,7.33,81.58,0.11,1600
+573,574,Mexico,la concordia,AMECAFE,2012,2012-06-06,Enrique Eduardo Lopez Aguilar,7.67,7.58,7.42,7.58,7.58,7.42,10,10,8.67,7.67,81.58,0.11,1650
+574,575,Nicaragua,jalapa,Instituto HondureÃ±o del CafÃ©,2017,2017-06-20,"Exportadora Atlantic, S.A.",7.5,7.42,7.33,7.33,7.25,7.33,10,10,10,7.33,81.5,0.11,1100
+575,576,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2017,2017-06-03,Elsy Reyes,7.5,7.5,7.33,7.42,7.17,7.25,10,10,10,7.33,81.5,0.1,1400
+577,578,Costa Rica,occidental,Specialty Coffee Association of Costa Rica,2014,2015-01-07,Santa Laura Exportadora de Cafe S.L.E.C. S.A.,7.83,7.33,7.08,7.08,7.33,7.5,10,10,10,7.33,81.5,0.12,1200
+578,579,Malawi,mzuzu,Africa Fine Coffee Association,2014,2014-11-04,AFCA,7.67,7.42,6.92,7.5,7.5,7.17,10,10,10,7.33,81.5,0.12,1599
+579,580,Brazil,sul de minas,Specialty Coffee Association,2014,2014-07-29,Jacques Pereira Carneiro,7.58,7.5,7.5,7.67,7.67,7.83,9.33,9.33,9.33,7.75,81.5,0,1200
+581,582,Mexico,"la concordia, chiapas",AMECAFE,2013,2013-03-11,ALFREDO BOJALIL,7.33,7.33,7.17,7.42,7.5,7.5,10,10,10,7.25,81.5,0.13,1150
+582,583,Mexico,amatenango de la frontera,AMECAFE,2012,2012-08-30,ALFREDO BOJALIL,7.58,7.42,7.25,7.42,7.33,7.33,10,10,10,7.17,81.5,0.12,1600
+583,584,Mexico,temaxcalapa,AMECAFE,2012,2012-08-29,JOSE LUIS MUNOZ GUERRERO,7.42,7.25,7.17,7.42,7.17,8,10,10,10,7.08,81.5,0.12,1100
+585,586,Mexico,tapachula,AMECAFE,2012,2012-07-26,TOMAS EDELMANN BLASS,7.42,7.42,7.33,7.17,7.25,7.42,10,10,10,7.5,81.5,0.13,1250
+586,587,Mexico,atoyac de alvarez,AMECAFE,2012,2012-07-26,MARIA DE LA PAZ AGUILAR GUILLEN,7.5,7.5,7.25,7.5,7.42,7.58,9.33,10,10,7.42,81.5,0.11,1100
+587,588,Indonesia,ijen,Specialty Coffee Association of Indonesia,2012,2012-05-24,Specialty Coffee Association of Indonesia,7.75,7.17,7.17,7.33,7.58,7.33,10,10,10,7.17,81.5,0.12,1400
+589,590,Mexico,veracruz,Centro AgroecolÃ³gico del CafÃ© A.C.,2017,2017-05-12,CAFES TOMARI SA DE CV,7.58,7.33,7.08,7.33,7.5,7.33,10,10,10,7.25,81.42,0.12,1100
+590,591,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2015,2015-05-12,CADEXSA,7.5,7.33,7.17,7.25,7.5,7.42,10,10,10,7.25,81.42,0.12,1400
+592,593,Malawi,mzuzu,Africa Fine Coffee Association,2014,2014-11-04,AFCA,7.58,7.17,7.33,7.42,7.08,7.42,10,10,10,7.42,81.42,0.12,1422
+593,594,Guatemala,"san lucas toliman, solola",Asociacion Nacional Del CafÃ©,2014,2014-05-26,Juan Luis Alvarado Romero,7.42,7.5,7.17,7.42,7.42,7.42,10,10,10,7.08,81.42,0.1,1550
+594,595,Mexico,siltepec el triunfo,Specialty Coffee Association,2014,2014-05-01,Kurt Kappeli,7.67,7.33,7.25,7.17,7.25,7.42,10,10,10,7.33,81.42,0,1550
+596,597,Mexico,"coatepec, coatepec",AMECAFE,2012,2012-06-06,GRUPO CAFETALERO LOS BRUJOS SPR DE RL,7.42,7.42,7.25,7.25,7.5,7.33,10,10,10,7.25,81.42,0.13,1100
+597,598,Colombia,huila,AlmacafÃ©,2011,2011-11-11,Exportadora de Cafe Condor S.A,7.5,7.42,7.25,7.17,7.17,7.75,10,10,10,7.17,81.42,0.11,1750
+598,599,Mexico,veracruz,Centro AgroecolÃ³gico del CafÃ© A.C.,2016,2016-02-25,Angel Oscar Medina Rodriguez,7.67,7.42,7,7.42,7.58,7.08,10,10,10,7.17,81.33,0.12,1130
+599,600,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2015,2015-05-22,CADEXSA,7.58,7.42,7.17,7.42,7.17,7.17,10,10,10,7.42,81.33,0.09,1350
+600,601,Philippines,"davao city, region 11",Specialty Coffee Association,2014,2014-11-13,Victoria,7.08,7.33,7.42,7.33,7.33,7.5,10,10,10,7.33,81.33,0.14,1400
+601,602,Malawi,mzuzu,Africa Fine Coffee Association,2014,2014-11-04,AFCA,7.75,7.33,7.08,7.33,7.33,7.25,10,10,10,7.25,81.33,0.13,1200
+602,603,Honduras,san marcos,Instituto HondureÃ±o del CafÃ©,2014,2014-01-22,Mayra Yessenia Torres,7.33,7.33,7.17,7.33,7.5,7.33,10,10,10,7.33,81.33,0.12,1450
+603,604,Mexico,tapachula,AMECAFE,2012,2012-08-30,JULIO PEREZ HERNANDEZ,7.58,7.42,7.25,7.33,7.25,7.25,10,10,10,7.25,81.33,0.13,1800
+606,607,Nicaragua,jinotega,AsociaciÃ³n de CafÃ©s Especiales de Nicaragua,2015,2015-07-06,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",7.08,7.5,7.33,7.17,7.42,7.25,10,10,10,7.5,81.25,0.1,1100
+607,608,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2015,2015-05-12,CADEXSA,7.42,7.17,7.17,7.5,7.33,7.25,10,10,10,7.42,81.25,0.12,1400
+608,609,Guatemala,huehuetenango,Blossom Valley International,2014,2015-03-21,EssenceCoffee,7.33,7.42,7.17,7.25,7.42,7.33,10,10,10,7.33,81.25,0.09,1700
+609,610,"Tanzania, United Republic Of",karatu ngorogoro,Africa Fine Coffee Association,2014,2014-12-17,Shangrilla Estate Ltd,7.33,7.17,7.17,7.5,7.25,7.42,10,10,10,7.42,81.25,0.13,1700
+610,611,Mexico,motozintla,AMECAFE,2012,2012-07-26,ALFREDO BOJALIL,7.42,7.42,7.33,7.33,7.5,7.42,9.33,10,10,7.5,81.25,0.12,1500
+611,612,Nicaragua,"dipilto, nueva segovia",Instituto HondureÃ±o del CafÃ©,2016,2017-03-08,"Exportadora Atlantic, S.A.",7.33,7.5,7.17,7.17,7.58,7.17,10,10,10,7.25,81.17,0.09,1200
+612,613,Mexico,"chiapas, jaltenango",AsociaciÃ³n Mexicana De CafÃ©s y CafeterÃ­as De Especialidad A.C.,2015,2015-06-25,ANDREAS KUSSMAUL,7.75,7.58,7.08,7.25,7.08,7.25,10,10,10,7.17,81.17,0.12,1200
+613,614,Costa Rica,tres rios,Specialty Coffee Association of Costa Rica,2015,2015-05-22,"CAFETALERA INTERNACIONAL CAFINTER, S.A.",7.5,7.5,7.33,7.17,7.08,7.17,10,10,10,7.42,81.17,0.11,1300
+614,615,Honduras,central region,Instituto HondureÃ±o del CafÃ©,2015,2015-03-11,,7.42,7.33,7,7.42,7.33,7.33,10,10,10,7.33,81.17,0.13,1450
+615,616,Thailand,chiangrai,Specialty Coffee Institute of Asia,2014,2015-02-15,???? Koju Matsuzawa,6.83,7.42,7.42,7.17,7.5,7.42,10,10,10,7.42,81.17,0.12,1450
+616,617,Philippines,corillera administrative,Specialty Coffee Association,2014,2015-01-08,Victoria,7.25,7.25,7.25,7.08,7.58,7.5,10,10,10,7.25,81.17,0,1200
+617,618,"Tanzania, United Republic Of",mbinga,Africa Fine Coffee Association,2014,2014-12-17,Taylor Winch (T) Ltd,7.58,7.17,7.17,7.33,7.33,7.25,10,10,10,7.33,81.17,0.12,1550
+619,620,Costa Rica,central valley,Specialty Coffee Association of Costa Rica,2014,2014-05-09,Eric Thormaehlen,7.33,7.08,7.33,7.25,7.33,7.58,10,10,10,7.25,81.17,0.11,1300
+620,621,Mexico,tapachula,AMECAFE,2012,2012-08-30,JULIO PEREZ HERNANDEZ,7.42,7.25,7.08,7.75,7.42,7.17,10,10,10,7.08,81.17,0.13,1800
+621,622,Guatemala,oriente,Specialty Coffee Association,2012,2012-08-20,The Coffee Source Inc.,7.42,7.25,7.33,7.25,7.25,7.42,10,10,10,7.25,81.17,0.12,1450
+624,625,Nicaragua,jinotega,AsociaciÃ³n de CafÃ©s Especiales de Nicaragua,2015,2015-03-28,Rolando Lacayo,7.33,7.33,7.33,7.42,7.33,7.33,10,10,10,7,81.08,0.11,1100
+625,626,"Tanzania, United Republic Of","iwala village, mbeya rural",Africa Fine Coffee Association,2014,2015-01-02,Taylor Winch (T) Ltd,7.42,7.33,7.33,7.25,7.25,7.33,10,10,10,7.17,81.08,0.13,1456
+626,627,Costa Rica,naranjo,Specialty Coffee Association of Costa Rica,2014,2014-12-18,The Coffee Source Inc.,7.42,7.25,7.17,7.25,7.25,7.58,10,10,10,7.17,81.08,0.13,1500
+627,628,Mexico,san fernando,AMECAFE,2012,2012-09-14,OBED RENDON PONCE,7.25,7.42,7.33,7.33,7.17,7.33,10,10,10,7.25,81.08,0.13,1650
+628,629,Mexico,santo reyes nopala,AMECAFE,2012,2012-09-04,DIEGO MANUEL WOOLRICH RAMIREZ,7.33,7.25,7.33,7.42,7.25,7.42,10,10,10,7.08,81.08,0.12,1300
+629,630,Mexico,santa maria sitepec,AMECAFE,2012,2012-08-30,GERARDO HERNANDEZ VALDERRABANO,7.33,7.33,7.25,7.42,7.25,7.25,10,10,10,7.25,81.08,0.11,1642
+630,631,Mexico,talpa de allende,AMECAFE,2012,2012-07-03,BALBINO RAMIREZ FLORES,7.42,7.33,7.25,7.42,7.17,7.25,10,10,10,7.25,81.08,0.1,1200
+631,632,El Salvador,apaneca,Salvadoran Coffee Council,2017,2017-08-28,Consejo SalvadoreÃ±o del CafÃ©,7.42,7.08,7.08,7.33,7.25,7.58,10,10,10,7.25,81,0,1450
+633,634,Colombia,guayata,AlmacafÃ©,2016,2016-07-22,Racafe & Cia S.C.A,7.67,7.5,7.42,5.25,7.67,7.75,10,10,10,7.75,81,0,1600
+635,636,Honduras,san marcos,Instituto HondureÃ±o del CafÃ©,2014,2015-01-26,Mayra Yessenia Torres,7.42,7.25,7.25,7.33,7.25,7.17,10,10,10,7.33,81,0.12,1350
+636,637,"Tanzania, United Republic Of",arusha,Africa Fine Coffee Association,2014,2014-12-15,Mlimani Ngarashi,7.33,7.33,7.08,7.42,7.17,7.33,10,10,10,7.33,81,0.12,1525
+637,638,Uganda,eastern,Uganda Coffee Development Authority,2013,2014-06-30,Kyagalanyi Ltd,7.33,6.92,7.17,7.33,7.42,7.42,10,10,10,7.42,81,0.12,1700
+640,641,Mexico,adolfo lopez mateos,AMECAFE,2012,2012-07-03,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7.58,7.67,7.5,7.67,7.58,7.5,8,10,10,7.5,81,0,1100
+642,643,Guatemala,oriente,Asociacion Nacional Del CafÃ©,2017,2017-08-23,Juan Luis Alvarado Romero,7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,9.33,7.5,80.92,0.1,1901
+643,644,Kenya,kiambu,Kenya Coffee Traders Association,2017,2017-07-07,Lydiah Mwangi,7.17,7.58,7.5,7.5,8,7.75,10,10,10,5.42,80.92,0.11,1600
+644,645,Mexico,veracruz,Centro AgroecolÃ³gico del CafÃ© A.C.,2017,2017-05-12,Grupo Santab S.A de C.V.,7.5,7.33,7.17,7.42,7.5,7.33,9.33,10,10,7.33,80.92,0.11,1100
+645,646,"Tanzania, United Republic Of","manyara, karatu",Africa Fine Coffee Association,2014,2014-12-18,Karatu Estate,7.33,7.17,7.17,7.25,7.42,7.33,10,10,10,7.25,80.92,0.12,1700
+647,648,Nicaragua,matagalpa,Specialty Coffee Association,2013,2014-07-16,Chris Finch,7.33,7.08,7.25,7,7.5,7.42,10,10,10,7.33,80.92,0.1,1050
+648,649,Mexico,ixhuatlan del cafe,AMECAFE,2012,2012-07-11,EDUARDO LUIS  STO VELAZQUEZ SOLIS,7.58,7.33,7.08,7.5,7.17,7.25,10,10,10,7,80.92,0.13,1186
+649,650,Laos,"paksong,laos",Blossom Valley International,2016,2017-06-22,CQI Taiwan ICP CQI??????,7.42,7.33,7.17,7.17,7.17,7.25,10,10,10,7.33,80.83,0,1300
+650,651,Guatemala,orient,Specialty Coffee Association of Costa Rica,2013,2014-05-26,The Coffee Source Inc.,7.67,7.25,7.08,7.33,7.17,7.25,10,10,10,7.08,80.83,0.11,1200
+651,652,Mexico,motozintla,AMECAFE,2012,2012-08-30,LUIS ROBERTO FERMOSO BELTRAN,7.17,7.08,7.25,7.42,7.25,7.33,10,10,10,7.33,80.83,0.13,1210
+652,653,Mexico,oaxaca,AMECAFE,2012,2012-08-29,JOSE MANUEL VERGARA CORTES,7.33,7.25,7.33,7.33,7.25,7.17,10,10,10,7.17,80.83,0.11,1100
+656,657,Honduras,"siguatepeque, comayagua",Instituto HondureÃ±o del CafÃ©,2015,2015-05-25,Bismarck Castro,7.5,7.33,7,7.42,7.25,7.17,10,10,10,7.08,80.75,0.11,1450
+657,658,Panama,boquete,Blossom Valley International,2014,2015-05-23,EssenceCoffee,7.25,7.33,7.17,7.33,7.33,7.17,10,10,10,7.17,80.75,0.11,1680
+658,659,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2015,2015-05-22,CADEXSA,7.42,7.17,7.08,7.42,7.25,7.25,10,10,10,7.17,80.75,0.09,1350
+659,660,Honduras,central region,Instituto HondureÃ±o del CafÃ©,2015,2015-03-11,,7.25,7.33,7.08,7.5,7.25,7.33,10,10,10,7,80.75,0.13,1450
+660,661,Costa Rica,san ramon,Specialty Coffee Association,2014,2014-04-11,The Coffee Source Inc.,7.33,7.33,7.25,7.25,7.17,7.17,10,10,10,7.25,80.75,0.11,1300
+661,662,Mexico,oaxaca,AMECAFE,2012,2012-09-04,DIEGO MANUEL WOOLRICH RAMIREZ,7.58,7.33,7.42,7.25,7.5,7.5,9.33,9.33,10,7.5,80.75,0.11,1200
+663,664,Indonesia,sumatra brastagi,Specialty Coffee Association,2015,2015-11-10,Aulia Arif Syahri,7.58,7.42,7,7.67,7.5,7.5,9.33,9.33,10,7.33,80.67,0.13,1350
+666,667,Mexico,"el desmoronado, talpan de allende jalisco",AMECAFE,2014,2014-10-23,CAFE DE DON BALBINO S.C. DE R.L. DE C.V.,7.25,7.17,7.17,7.25,7.17,7.42,10,10,10,7.25,80.67,0.12,1200
+667,668,Colombia,santander,AlmacafÃ©,2014,2014-04-14,CompaÃ±ia Colombiana Agroindustrial S.A,7.67,7.5,7.42,7.67,7.5,7.75,10,10,6.67,8.5,80.67,0,1550
+668,669,Guatemala,"san lucas toliman, solola",Asociacion Nacional Del CafÃ©,2013,2013-06-05,Juan Luis Alvarado Romero,7.67,7.17,7,7.5,7,7,10,10,10,7.33,80.67,0.12,1550
+669,670,"Tanzania, United Republic Of",arusha,Africa Fine Coffee Association,2014,2015-01-06,Burka Coffee Estate,7.25,7.08,7.08,7.33,7.33,7.25,10,10,10,7.25,80.58,0.12,1400
+670,671,Honduras,occidental,Instituto HondureÃ±o del CafÃ©,2014,2014-04-30,Beneficio Santa Rosa,7.5,7.17,7,7.42,7.33,7,10,10,10,7.17,80.58,0.11,1400
+672,673,Guatemala,santa rosa,Asociacion Nacional Del CafÃ©,2017,2017-09-08,Juan Luis Alvarado Romero,7.33,7.25,7.08,7.17,7.25,7.17,10,10,10,7.25,80.5,0.1,1500
+673,674,Honduras,ocotepeque,Instituto HondureÃ±o del CafÃ©,2017,2017-08-23,Janny Marlith Torres,7.58,7.33,7,7.17,7.33,7.08,10,10,10,7,80.5,0.11,1650
+676,677,Brazil,mantiqueira de minas,Specialty Coffee Association,2013,2014-04-17,Jacques Pereira Carneiro,7.42,7.42,7.08,7.33,7.67,7.5,9.33,9.33,10,7.42,80.5,0.1,1250
+677,678,Mexico,zaragoza itundujia,AMECAFE,2012,2012-09-17,ISRAEL EDUARDO PAZ GARCIA,7.25,7.25,7.08,7.33,7.25,7.17,10,10,10,7.17,80.5,0.15,1450
+678,679,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2016,2016-02-03,CADEXSA,7.25,7.42,7,7.42,7.33,7,10,10,10,7,80.42,0.1,1450
+680,681,El Salvador,"department of ahuachapan, municipality of apanecallamatepec mountain",Specialty Coffee Association,2013,2014-04-26,LUSSO LAB,7.33,7.17,7.08,7.08,7.33,7.17,10,10,10,7.25,80.42,0,1450
+681,682,China,yunnan,Specialty Coffee Association,2013,2014-01-17,Adam Ciruli Ye,7.25,7.08,7.25,7.17,7.33,7.17,10,10,10,7.17,80.42,0.17,1700
+682,683,Mexico,pochutla,AMECAFE,2012,2012-09-04,ALFREDO BOJALIL,6.92,7.17,7.08,7.5,7.33,7.17,10,10,10,7.25,80.42,0.1,1050
+683,684,Mexico,la concordia,AMECAFE,2012,2012-08-30,ARMANDO LUIS POHLENZ MARTINEZ,7.42,7.08,7.08,7.33,7.25,7.17,10,10,10,7.08,80.42,0.12,1550
+684,685,Burundi,mumirwa,Kenya Coffee Traders Association,2016,2016-01-22,SIMON MAHINDA,7.08,7.25,7.17,7.33,7.08,7.08,10,10,10,7.33,80.33,0.12,1700
+686,687,Honduras,comayagua,Instituto HondureÃ±o del CafÃ©,2016,2017-04-06,Bismarck Castro,7.25,7.25,7,7,7.42,7,10,10,10,7.33,80.25,0.1,1400
+687,688,Mexico,sierra madre occidental,Centro AgroecolÃ³gico del CafÃ© A.C.,2016,2016-04-26,CAFE DE DON BALBINO S.C. DE R.L. DE C.V.,7.25,7.17,7,7.33,7.33,7,10,10,10,7.17,80.25,0.1,1600
+690,691,Guatemala,oriente,Specialty Coffee Association,2012,2013-01-09,The Coffee Source Inc.,7,7.17,7.33,7.33,7,7.17,10,10,10,7.25,80.25,0.11,1400
+692,693,Vietnam,dala,Specialty Coffee Association,2017,2017-05-09,"Sunvirtue Co., Ltd.",7.42,7.25,7.25,7.58,7.42,7.33,8.67,10,10,7.25,80.17,0,1550
+693,694,Nicaragua,jinotega,AsociaciÃ³n de CafÃ©s Especiales de Nicaragua,2015,2015-04-24,"Exportadora Atlantic, S.A.",7.17,7.08,7.08,7.33,7.25,7.08,10,10,10,7.17,80.17,0.11,1187.5
+694,695,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2015,2015-01-26,CADEXSA,7.25,7.25,7,7.17,7.08,7.08,10,10,10,7.33,80.17,0.11,1400
+695,696,Mexico,coatepec,AMECAFE,2012,2012-10-09,PABLO ENRIQUE MARTINEZ GAMA,7.33,7.08,6.92,7.42,7.25,7.08,10,10,10,7.08,80.17,0.11,1250
+696,697,Mexico,zaragoza itundujia,AMECAFE,2012,2012-09-13,ISRAEL EDUARDO PAZ GARCIA,7.58,7.42,7.33,7.5,7.08,7.17,8.67,10,10,7.42,80.17,0.14,1550
+699,700,Mexico,zaragoza itundujia,AMECAFE,2012,2012-09-14,ISRAEL EDUARDO PAZ GARCIA,7.33,7.17,7.25,7.08,7.08,7.08,10,10,10,7.08,80.08,0.15,1300
+700,701,Mexico,escuitla,AMECAFE,2012,2012-08-30,FEDERICO PACHECO PEREZ,7.25,7.08,7,7.17,7.33,7.17,10,10,10,7.08,80.08,0.14,1300
+701,702,Nicaragua,jinotega,Instituto HondureÃ±o del CafÃ©,2017,2017-06-13,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",7.33,7.08,6.92,7.08,7.42,7.17,10,10,10,7,80,0.1,1250
+703,704,Mexico,"sierra fraylesca, chiapas",Specialty Coffee Association,2014,2014-05-01,Kurt Kappeli,7.58,7.75,7.42,7.5,7.5,7.5,8.67,8.67,10,7.42,80,0,1400
+705,706,Mexico,coatepec,AMECAFE,2012,2012-09-10,PABLO ENRIQUE MARTINEZ GAMA,7.25,7.25,7.08,7.17,7.33,7.33,9.33,10,10,7.25,80,0.12,1250
+706,707,Mexico,san miguel del puerto,AMECAFE,2012,2012-09-04,SEMIRAMIS CASAS VELAZQUEZ,7.08,7.33,7,7.33,7.08,7,10,10,10,7.17,80,0.11,1100
+707,708,Mexico,chiapas,AMECAFE,2013,2013-03-29,CALIXTO GUILLEN VAZQUEZ,7.33,7.08,7.08,7.33,7.42,7.17,9.33,10,10,7.17,79.92,0.12,1300
+708,709,Mexico,"motozintla, chiapas",AMECAFE,2012,2012-09-11,ALEJANDRO GARCIA PALACIOS,7.17,7.17,6.92,7.25,7.33,7.08,10,10,10,7,79.92,0.12,1100
+709,710,Mexico,veracruz,AMECAFE,2012,2012-08-30,CHRISTINA DUSING,7.5,7.17,7,7.17,7.25,7.08,10,10,10,6.75,79.92,0,1100
+710,711,Mexico,jaltenango,AMECAFE,2012,2012-07-26,MONTEGRANDE,7.17,7.08,7.08,7.08,7.5,7.33,9.33,10,10,7.33,79.92,0.11,1100
+711,712,Mexico,coatepec,AMECAFE,2012,2012-07-11,PABLO ENRIQUE MARTINEZ GAMA,7.33,7.25,7,7.42,7.17,7.17,9.33,10,10,7.25,79.92,0.12,1250
+712,713,Mexico,veracruz,AMECAFE,2012,2012-07-11,JESUS CARLOS CADENA VALDIVIA,7.17,7.33,7.08,7.58,7.33,7.08,10,9.33,10,7,79.92,0.11,1250
+713,714,Kenya,kiambu,Kenya Coffee Traders Association,2017,2017-08-25,Kennedy Macharia,7,7.08,7,7.17,7.25,7.25,10,10,10,7.08,79.83,0.11,1500
+714,715,Guatemala,san marcos,Asociacion Nacional Del CafÃ©,2017,2017-08-22,Juan Luis Alvarado Romero,7.33,7.25,6.92,7.33,7.25,7.33,9.33,10,10,7.08,79.83,0.1,1700
+715,716,Nicaragua,jinotega,AsociaciÃ³n de CafÃ©s Especiales de Nicaragua,2014,2015-03-30,AsociaciÃ³n Aldea Global Jinotega,6.83,7.17,7.17,6.92,7.5,7.08,10,10,10,7.17,79.83,0.11,1250
+716,717,Mexico,veracruz,AMECAFE,2012,2012-07-11,SERGIO DE LA VEQUIA BERNARDI,7.17,7.08,7,7.25,7.5,7,10,10,10,6.83,79.83,0.12,1300
+721,722,Costa Rica,brunca,Specialty Coffee Association,2013,2013-09-23,The Coffee Source Inc.,7.58,7.5,7.67,7.75,7.67,7.58,8,8,10,8,79.75,0.1,1100
+722,723,Mexico,"la concordia, chiapas",AMECAFE,2013,2013-03-29,FREDY GORDILLO REYES,7.58,7.08,7,7,7.5,6.92,10,10,10,6.67,79.75,0.12,1400
+723,724,Mexico,chiapas,AMECAFE,2013,2013-03-29,LEONIDES DE LA CRUZ LOPEZ,7.58,7.08,6.92,7.58,7.5,6.92,10,9.33,10,6.83,79.75,0.13,1022
+724,725,Mexico,chiapas,AMECAFE,2013,2013-03-29,CALIXTO GUILLEN VAZQUEZ,7.25,7.08,7,7.17,7.17,7.08,10,10,10,7,79.75,0.12,1300
+725,726,Mexico,zaragoza itundujia,AMECAFE,2012,2012-09-14,ISRAEL EDUARDO PAZ GARCIA,7.25,7.17,7.17,7.08,7.17,7,10,10,10,6.92,79.75,0.14,1450
+726,727,Mexico,pochutla,AMECAFE,2012,2012-09-04,ALFREDO BOJALIL,7.33,7.25,7,7.08,7.08,7,10,10,10,7,79.75,0.1,1050
+727,728,Mexico,tuxtla gutierrez,AMECAFE,2012,2012-06-06,MONTEGRANDE,7.25,6.83,6.92,7.08,7.25,7.08,10,10,10,7.33,79.75,0.12,1100
+728,729,El Salvador,cacahuatique,Salvadoran Coffee Council,2016,2017-03-23,Consejo SalvadoreÃ±o del CafÃ©,7.25,7.08,7,6.83,7.33,7.17,10,10,10,7,79.67,0,1250
+730,731,Mexico,"la concordia, chiapas",AMECAFE,2013,2013-03-29,FREDY GORDILLO REYES,7.42,7.25,6.83,7.58,7.17,6.58,10,10,10,6.83,79.67,0.12,1400
+732,733,Mexico,"coatepec, coatepec",AMECAFE,2012,2012-06-04,ALFREDO BOJALIL,6.92,7.17,7.17,7.17,7.08,7.08,10,10,10,7.08,79.67,0,1264
+733,734,Mexico,tepetzingo,AMECAFE,2012,2012-09-17,OBED RENDON PONCE,7.08,7,6.92,7.33,7.25,7.08,10,10,10,6.92,79.58,0.12,1250
+734,735,Mexico,la concordia,AMECAFE,2012,2012-08-30,ARMANDO LUIS POHLENZ MARTINEZ,7.25,6.92,6.92,7.33,7.25,7,10,10,10,6.92,79.58,0.13,1550
+735,736,Nicaragua,jinotega,AsociaciÃ³n de CafÃ©s Especiales de Nicaragua,2015,2015-07-06,COOPERATIVA EL GORRION R.L,6.92,6.92,7,7.42,7.25,7,10,10,10,7,79.5,0.12,1050
+737,738,Colombia,cundinamarca,AlmacafÃ©,2013,2013-06-21,Exportadora de Cafe Condor S.A,7.83,7.5,7.42,7.42,7.67,7.5,10,6.67,10,7.5,79.5,0,1550
+738,739,Mexico,la concordia,AMECAFE,2012,2012-08-01,ARMANDO LUIS POHLENZ MARTINEZ,7.25,7.08,6.92,7.25,7.58,7.08,9.33,10,10,7,79.5,0.12,1550
+739,740,Mexico,"coatepec, coatepec",AMECAFE,2012,2012-07-11,MARIO JOSE FERNANDEZ,7.25,7.33,7,7.25,7.17,7.17,9.33,10,10,7,79.5,0.12,1100
+742,743,Colombia,pereira,Specialty Coffee Association,2013,2014-01-08,The Coffee Source Inc.,7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10,7.33,79.33,0,1200
+747,748,Honduras,ocotepeque,Instituto HondureÃ±o del CafÃ©,2017,2017-07-27,Janny Marlith Torres,7.58,7,6.75,6.92,7,6.92,10,10,10,7,79.17,0.11,1650
+748,749,Guatemala,occidente,Asociacion Nacional Del CafÃ©,2016,2016-05-23,Juan Luis Alvarado Romero,7.08,7,6.92,7.42,7,6.92,10,10,10,6.83,79.17,0.11,1320
+749,750,Guatemala,nuevo oriente,Asociacion Nacional Del CafÃ©,2015,2015-06-30,Juan Luis Alvarado Romero,7.25,7.17,6.75,7.25,7,6.92,10,10,10,6.83,79.17,0.11,1550
+750,751,Mexico,zaragoza itundujia,AMECAFE,2012,2012-09-13,ISRAEL EDUARDO PAZ GARCIA,7.25,7.08,6.92,7.08,7.17,7.17,9.33,10,10,7.17,79.17,0.14,1550
+751,752,Mexico,yajalon,AMECAFE,2012,2012-08-30,JULIO CESAR ROBLES FLORES,7.17,6.92,6.92,7.08,7.17,7,10,10,10,6.92,79.17,0.14,1450
+752,753,Guatemala,san marcos,Asociacion Nacional Del CafÃ©,2017,2017-08-23,Juan Luis Alvarado Romero,7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,8.67,7.67,79.08,0.1,1700
+753,754,Mexico,zaragoza itundujia,AMECAFE,2012,2012-09-13,ISRAEL EDUARDO PAZ GARCIA,7.33,7,6.92,7.25,7.33,7.08,9.33,10,10,6.83,79.08,0.16,1500
+754,755,Mexico,tlacuilotepec,AMECAFE,2012,2012-09-12,JUANA RODRIGUEZ GUTIERREZ,7.25,7.08,6.75,7.33,7.42,7,9.33,10,10,6.92,79.08,0.11,1100
+755,756,Mexico,talpa de allende,AMECAFE,2012,2012-07-03,BALBINO RAMIREZ FLORES,7.17,7.25,7.25,7.17,7.25,7.08,9.33,9.33,10,7.25,79.08,0.1,1200
+756,757,Honduras,intibuca,Instituto HondureÃ±o del CafÃ©,2014,2014-04-26,CAFES FINOS DE EXPORTACION S DE R.L.,7,7,7,7,7,7,10,10,10,7,79,0.11,1350
+757,758,Peru,san ignacio,Specialty Coffee Association,2012,2013-01-08,Sustainable Harvest Coffee,7.67,7.17,7.08,7.25,8,7.5,8.67,9.33,9.33,7,79,0,1400
+758,759,Mexico,"iliatenco, guerrero",AMECAFE,2012,2012-09-17,GONZALO DE AQUINO FLORES,6.75,7.08,6.67,7.25,7.17,7.08,10,10,10,7,79,0.12,1300
+759,760,Mexico,zaragoza itundujia,AMECAFE,2012,2012-09-12,ISRAEL EDUARDO PAZ GARCIA,7.5,7.17,6.92,7.5,7.25,7,8.67,10,10,7,79,0.14,1550
+761,762,Mexico,"la concordia, chiapas",AMECAFE,2013,2013-03-12,ALFREDO BOJALIL,7.33,7,6.75,7.08,7.17,7.25,9.33,10,10,7,78.92,0.12,1300
+762,763,Mexico,zaragoza itundujia,AMECAFE,2012,2012-09-17,ISRAEL EDUARDO PAZ GARCIA,7.5,7,6.92,7.08,6.92,6.75,10,10,10,6.75,78.92,0.16,1400
+763,764,Nicaragua,jalapa,Instituto HondureÃ±o del CafÃ©,2016,2017-05-22,"Exportadora Atlantic, S.A.",7.17,7,6.92,7,7,7,10,10,10,6.75,78.83,0.1,1100
+764,765,Mexico,veracruz,AMECAFE,2012,2012-08-01,OCTAVIO  STO DIAZ TREJO,7.25,6.83,6.83,7,7.17,7,10,10,10,6.67,78.75,0.14,1320
+765,766,Mexico,veracruz,AMECAFE,2012,2012-07-16,DAMASO MARTINEZ PEREZ,7.25,7.33,7.17,7.25,7.08,7,8.67,10,10,7,78.75,0.14,1250
+766,767,Mexico,"ohuapan, tlaltetela",AMECAFE,2012,2012-06-06,"PRODUCTORES DE ESPECIALIDAD EMILIANO ZAPEATA, SPR.",7.67,7.17,6.83,7.33,7.58,7.17,9.33,10,8.67,7,78.75,0.12,1350
+767,768,China,yunnan,Specialty Coffee Association,2013,2014-04-26,Adam Ciruli Ye,7,6.92,6.83,7.17,7.17,7.17,10,10,9.33,7.08,78.67,0,1850
+768,769,Mexico,yecuatla,AMECAFE,2012,2012-09-17,JUAN GARCIA HERNANDEZ,6.92,6.92,6.67,7.25,7.17,6.92,10,10,10,6.83,78.67,0.13,1150
+770,771,Mexico,tapachula,AMECAFE,2012,2012-07-26,ALFREDO BOJALIL,7,7,6.75,7.33,6.92,6.92,10,10,10,6.67,78.58,0.13,1400
+771,772,Mexico,cofradia de suchitlan,AMECAFE,2012,2012-07-02,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7.92,7.58,7.58,7.92,7.92,7.5,8,6.67,10,7.5,78.58,0.1,1300
+772,773,Mexico,"sierra, chiapas",Specialty Coffee Association,2014,2014-04-26,Kurt Kappeli,7.25,6.75,6.92,6.92,7.25,7.58,9.33,9.33,10,7.17,78.5,0,1600
+773,774,Mexico,villa talea de castro,AMECAFE,2012,2012-09-14,ROSARIO MIGUEL HERNANDEZ,7.08,6.83,6.83,7,7,6.92,10,10,10,6.83,78.5,0.12,1400
+774,775,Mexico,los angeles,AMECAFE,2012,2012-07-26,FRANCISCO RUIZ NUNEZ,7.25,7.17,7,6.83,7.58,7.08,8.67,10,10,6.92,78.5,0.13,1200
+775,776,Mexico,zaragoza itundujia,AMECAFE,2012,2012-09-14,ISRAEL EDUARDO PAZ GARCIA,7.58,7.17,7,7.17,7.33,7,8,10,10,7.17,78.42,0.14,1500
+776,777,Mexico,"xochitonalco, huautla        ",AMECAFE,2012,2012-09-11,PABLO CERVANTES MORELOS        ,7.25,7.25,7,7.5,7.33,7.42,8,9.33,10,7.75,78.33,0.13,1300
+777,778,Indonesia,ijen,Specialty Coffee Association of Indonesia,2016,2017-07-18,SanJava Coffee,6.92,6.83,6.92,6.92,6.92,6.83,10,10,10,6.83,78.17,0.13,1300
+778,779,Mexico,cordoba,AMECAFE,2012,2012-07-11,GUSTAVO AMIEVA GONZALEZ,7.08,6.83,6.67,7.25,7.25,6.92,10,9.33,10,6.75,78.08,0.11,1050
+780,781,Honduras,intibuca,Instituto HondureÃ±o del CafÃ©,2014,2014-05-15,CAFES FINOS DE EXPORTACION S DE R.L.,6.83,7,6.67,7,7,6.83,10,10,10,6.67,78,0.11,1350
+781,782,China,yunnan,Specialty Coffee Association,2013,2013-09-05,Samuel Eli Gurel,7.33,7.17,6.92,7.08,7.33,7,9.33,9.33,9.33,7.17,78,0.1,1200
+783,784,Costa Rica,occidental,Specialty Coffee Association of Costa Rica,2014,2015-02-03,Santa Laura Exportadora de Cafe S.L.E.C. S.A.,7.5,7.25,7.42,7,7.08,6.83,8.67,9.33,10,6.83,77.92,0.12,1200
+784,785,Mexico,petatlan,AMECAFE,2012,2012-07-26,GUSTAVO ABARCA SOLIS,7.42,7.25,7,7,7.25,7.08,8,10,10,6.92,77.92,0.11,1248
+787,788,Mexico,coatepec,AMECAFE,2012,2012-09-17,STEPHANY ESCAMILLA FEMAT,7.17,6.75,6.58,6.75,6.83,6.75,10,10,10,6.67,77.5,0.13,1300
+788,789,Mexico,zaragoza itundujia,AMECAFE,2012,2012-09-13,ISRAEL EDUARDO PAZ GARCIA,7.33,7,6.67,7,6.92,6.92,9.33,9.33,10,6.83,77.33,0.15,1500
+790,791,Mexico,"motozintla, chiapas",AMECAFE,2012,2012-09-11,ALEJANDRO GARCIA PALACIOS,7.08,7,7,7.25,7.33,7.25,8.67,8.67,10,6.92,77.17,0.12,1200
+791,792,Peru,san ignacio,Specialty Coffee Association,2014,2015-06-16,Andrew Bowman,7.42,7.75,7.42,7.67,7.92,7.83,8.67,5.33,9.33,7.67,77,0,1200
+792,793,Mexico,coatepec,AMECAFE,2012,2012-07-26,HOMERO ANTONIO DE ANDA ANDRADE,7.17,6.58,6.58,7,7.25,6.58,9.33,9.33,10,6.58,76.42,0.13,1100
+793,794,Mexico,zaragoza itundujia,AMECAFE,2012,2012-09-17,ISRAEL EDUARDO PAZ GARCIA,7.42,7,6.83,7.08,6.92,6.83,7.33,10,10,6.75,76.17,0.16,1400
+795,796,Mexico,tepictla,AMECAFE,2012,2012-09-10,GUILLERMO EDUARDO BOBADILLA MUGUIRA,7.08,6.83,6.83,7.17,7.17,7.08,10,7.33,10,6.58,76.08,0.12,1250
+796,797,Honduras,intibuca,Instituto HondureÃ±o del CafÃ©,2014,2014-05-15,CAFES FINOS DE EXPORTACION S DE R.L.,6.83,6.83,6.67,6.83,7,6.83,9.33,8.67,10,7,76,0.11,1350
+798,799,Mexico,tlacuilotepec,AMECAFE,2012,2012-09-12,JUANA RODRIGUEZ GUTIERREZ,7.5,7.25,6.92,7,7.17,6.83,8,8,10,6.83,75.5,0.11,1100
+799,800,Mexico,ocosingo,AMECAFE,2012,2012-09-12,FRANCISCO HERNANDEZ LORENZO,7.17,6.92,6.67,6.83,7.25,7.75,10,6,10,6.58,75.17,0.11,1200
+800,801,Mexico,huautla de jimenez,AMECAFE,2012,2012-03-05,MARTIN JIMENEZ CASIANO,7.17,7.17,6.83,7.17,7.42,6.67,8.67,7.33,10,6.75,75.17,0.13,1280
+802,803,Mexico,zaragoza itundujia,AMECAFE,2012,2012-09-13,ISRAEL EDUARDO PAZ GARCIA,7.08,6.75,6.58,7,7,6.75,8.67,8.67,10,6.42,74.92,0.17,1500
+803,804,Mexico,coatepec,AMECAFE,2012,2012-08-01,PABLO ENRIQUE MARTINEZ GAMA,7.33,6.75,6.67,7.25,7.5,7,10,5.33,10,7,74.83,0.12,1250
+804,805,Mexico,chiapas,AMECAFE,2013,2013-03-29,NESTOR MENDEZ GOMEZ,7.08,7,6.83,7.5,7.33,6.83,8,7.33,10,6.75,74.67,0.12,1700
+805,806,Mexico,"chocaman, veracruz",AMECAFE,2012,2012-09-10,JORGE OCTAVIO ESCAMILLA PRADO,7,6.58,6.67,6.83,7.08,6.83,10,6.67,10,6.67,74.33,0.14,1140
+806,807,Mexico,xalapa,AMECAFE,2012,2012-09-17,MYRNA ROXANA GALVEZ GONZALEZ,6.92,6.42,6.17,7.33,7.25,6.75,10,6.67,10,6.5,74,0.13,1200
+807,808,Mexico,coatepec,AMECAFE,2012,2012-08-01,EUGENE HOLMAN PEW,7.67,7,7.17,7.58,7.33,7.33,10,2.67,10,7.08,73.83,0.12,1250
+808,809,Honduras,intibuca,Instituto HondureÃ±o del CafÃ©,2014,2014-04-26,CAFES FINOS DE EXPORTACION S DE R.L.,7,7.17,6.83,7.17,7,7.17,8,8,8,7.08,73.42,0.11,1350
+809,810,Mexico,sierra alta mixe y zapoteca,Specialty Coffee Association,2014,2014-05-08,Kurt Kappeli,7.08,7.08,6.92,7.08,6.92,6.92,8,8,8,6.92,72.92,0,1200
+810,811,Haiti,marmelade,Specialty Coffee Association,2010,2011-08-23,Myriam Kaplan-Pasternak,6.92,6.75,7.08,7.17,7.33,6.67,10,5.33,8.67,6.42,72.33,0.08,1020
+811,812,Costa Rica,occidental,Specialty Coffee Association of Costa Rica,2014,2015-02-03,Santa Laura Exportadora de Cafe S.L.E.C. S.A.,6.33,6.5,6.33,6.83,6.33,6.5,10,6.67,10,6.25,71.75,0.11,1200
+813,814,Mexico,veracruz,AMECAFE,2012,2012-07-11,RICARDO AARON SAMPIERI MARINI,6.5,6.67,6.42,7.17,7.33,6.5,8,6,10,6.42,71,0.11,1800
+815,816,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2014,2014-05-15,CADEXSA,6.67,6.5,6.17,6.67,6.83,6.17,8,8,8,6.33,69.33,0.1,1450
+816,817,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2014,2014-05-15,CADEXSA,7,6.17,6.17,6.67,6.5,6.17,8,8,8,6.5,69.17,0.1,1450
+817,818,Honduras,marcala,Instituto HondureÃ±o del CafÃ©,2014,2014-05-15,CADEXSA,7,6.33,6.17,6.5,6.67,6.17,8,8,8,6.33,69.17,0.1,1450
+820,821,Nicaragua,jalapa,Instituto HondureÃ±o del CafÃ©,2016,2017-06-06,"Exportadora Atlantic, S.A.",7.25,6.58,6.33,6.25,6.42,6.08,6,6,6,6.17,63.08,0.13,1100
